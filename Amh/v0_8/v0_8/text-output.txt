@@ -1,0 +1,62 @@
+[
+  "jatʼənal", 
+  "jatʼənalɨ", 
+  "jatʼənal", 
+  "jatʼənalɨ", 
+  "jatʼənalɨna", 
+  "jatʼənalɨn"
+]
+[
+  "starting from that point", 
+  "zijam", 
+  "kəzijam", 
+  "zija"
+]
+[
+  "ənɨtə", 
+  "ənɨtəs", 
+  "nɨtə", 
+  "nɨtəs"
+]
+[
+  "t͡ʃʼə", 
+  "t͡ʃʼə", 
+  "t͡ʃʼə", 
+  "t͡ʃʼəw", 
+  "t͡ʃʼə", 
+  "t͡ʃʼəw", 
+  "t͡ʃʼəwɨ", 
+  "t͡ʃʼəwɨ", 
+  "t͡ʃʼəwɨn", 
+  "t͡ʃʼəwɨna"
+]
+[
+  "cash", 
+  "ɡənɨzəbe"
+]
+[
+  "inquiry", 
+  "tʼɨjakʼeh"
+]
+[
+  "sɨrat͡ʃə", 
+  "sɨrat͡ʃəw"
+]
+[
+  "Parties", 
+  "party", 
+  "parɨtiw"
+]
+[
+  "ɨnɨdəmajɨt͡ʃal", 
+  "ɨnɨdəmajɨt͡ʃalɨm", 
+  "ɨnɨdəmajɨt͡ʃalɨ"
+]
+[
+  "əsɨtawɨkʼʷal", 
+  "sɨtawɨkʼʷal"
+]
+[
+  "ibɨrahim", 
+  "ibɨrahi"
+]

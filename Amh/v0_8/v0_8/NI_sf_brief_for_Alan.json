@@ -1,0 +1,788 @@
+[
+    [
+        {
+            "End": 1262, 
+            "SegmentID": "segment-26", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "highway"
+                    ], 
+                    "text": "መንገድ", 
+                    "weight": 1.0, 
+                    "end_char": 1219, 
+                    "start_char": 1216
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "አሁን የተፈጠረው ትርምስ ከመከሰቱ ስድስት ወር በፊት በህጋዊ መንገድ ሳዑዲ አረቢያ ሄዳ የነበረችው ጓደኛዋ “ ህገወጥ ” ተብላ ተመልሳለች ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 1177, 
+            "NatGloss": "presently the multiple jətəfətʼərə confusion the kəməkəsət sɨdɨsɨt month Before bəhɨɡawi means saudi ərəbija hed the multiple jənəbərət͡ʃɨ the ɡʷadəɲa “ hɨɡəwətʼ ” təbɨl təməlɨsalət͡ʃ ።", 
+            "Type": "Infrastructure", 
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX"
+        }, 
+        {
+            "End": 1640, 
+            "SegmentID": "segment-35", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "highway"
+                    ], 
+                    "text": "መንገድ", 
+                    "weight": 1.0, 
+                    "end_char": 1607, 
+                    "start_char": 1604
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "የሚገርመው የኑሪያ ጓደኛ በህጋዊ መንገድ የላካት ድርጅት ዘንድ ስትሄድ የተሰጣት መልስ ነው ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 1583, 
+            "NatGloss": "the multiple jəmiɡərɨmə jənurija ɡʷadəɲ bəhɨɡawi means jəlakat company close to sɨtɨhed jətəsətʼat response it is ።", 
+            "Type": "Infrastructure", 
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX"
+        }, 
+        {
+            "End": 4750, 
+            "SegmentID": "segment-92", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "highway"
+                    ], 
+                    "text": "መንገድ", 
+                    "weight": 1.0, 
+                    "end_char": 4736, 
+                    "start_char": 4733
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "አቶ መለስ የጀመሩትን ለማስቀጠል ክርስቶስን ወደ ኋላ አድርገው የሚምሉት አቶ ሃይለማርያም ደሳለኝ ስራው በህጋዊ መንገድ እንደሚሰራም ወተወቱ ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 4662, 
+            "NatGloss": "mr. as for mələ jəd͡ʒəmərutɨ ləmasɨkʼətʼəl kɨrɨsɨtosɨ To hʷala Did jəmimɨlut mr. hajɨləmarɨjam dəsaləɲ the multiple work bəhɨɡawi means ɨnɨdəmisəram the wətəwət ።", 
+            "Type": "Infrastructure", 
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX"
+        }
+    ], 
+    [
+        {
+            "End": 6597, 
+            "SegmentID": "segment-115", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "sanitary"
+                    ], 
+                    "text": "ነጻ", 
+                    "weight": 1.0, 
+                    "end_char": 6572, 
+                    "start_char": 6571
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "አስቀድሞ የህክምና ምርመራ ማድረግ ግዴታ ነው ተብሎ አንድ የግል ክሊኒክ ብቻ በመሄድ 500 ብር እየከፈሉ ከጉበትና ከሳንባ በሽታ ነጻ የሆኑበትን ማስረጃ እንዲያመጡ ተደረገ ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 6489, 
+            "NatGloss": "ahead of time because jəhɨkɨmɨ examination Do responsibility it is Being called one Private clinic Only bəməhed 500 silver the ɨjəkəfəl because kəɡubətɨ kəsanɨba infection sanitary jəhonubətɨ evidence the ɨnɨdijamətʼ tədərəɡə ።", 
+            "Type": "Utilities, Energy, or Sanitation", 
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX"
+        }, 
+        {
+            "End": 1115, 
+            "SegmentID": "segment-9", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "sanitary"
+                    ], 
+                    "text": "ነጻ", 
+                    "weight": 1.0, 
+                    "end_char": 995, 
+                    "start_char": 994
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "“ የፖለቲካው መስመር ክፍተትን አይወድም ” በማለት የሰከነ አመለካከት ላላቸውና ከስሜት ፖለቲካ ነጻ ለሆኑት ዜጎች መልዕክት ያስተላለፉት ዶ/ር በየነ ፣ ሰዓትና በጀት በመመደብ የተለየ አመለካከት ያላቸውን ክፍሎች ሰድቦ የማሰደብ ተግባር ሲከናወን ማየታቸው በጅጉ እንደሚያሳዝናቸው ተናግረዋል ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 935, 
+            "NatGloss": "“ the multiple Political line kɨfɨtətɨ əjɨwədɨm ” By saying jəsəkənə əmələkakət because lalat͡ʃəwɨ kəsɨmet Politics sanitary ləhonut Citizens məlɨɨkɨt jasɨtəlaləfut do/r approved verdict (in a court) ፣ because səatɨ bəd͡ʒət bəməmədəb jətələjə əmələkakət jalat͡ʃəwɨ kɨfɨlot͡ʃ sədɨbo jəmasədəb performance sikənawə the multiple majətat͡ʃə the bəd͡ʒɨɡ the multiple ɨnɨdəmijasazɨnat͡ʃə Said ።", 
+            "Type": "Utilities, Energy, or Sanitation", 
+            "DocumentID": "AMH_WL_001612_20140116_G00202AZA"
+        }, 
+        {
+            "End": 568, 
+            "SegmentID": "segment-3", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "sanitary"
+                    ], 
+                    "text": "ነጻ", 
+                    "weight": 1.0, 
+                    "end_char": 478, 
+                    "start_char": 477
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ይልቁንም የኢትዮጵያ ባለስልጣናት ሃሳብን የመግለጽ ፣ የመደራጀት እና በሰላም የመሰብሰብ ነጻነት ላይ የጣሉትን ጥብቅ ገደብ ማስፈጸማቸውን የቀጠሉበት ሲሆን የሲቪል ማህበራትን እና ነጻ መገናኛ ብዙሃንን እንቅስቃሴ ለማዳከም አፋኝ ሕጎችን ይጠቀማሉ፤ግለሰቦችንም ፖለቲካዊ መነሾ ያላቸውን ክሶች በመመስረት የጥቃት ዒላማ ያደርጋሉ ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 365, 
+            "NatGloss": "more than ever Ethiopia baləsɨlɨtʼanat hasabɨ jəməɡɨlət͡sʼ ፣ jəmədərad͡ʒət And bəsəlam jəməsəbɨsəb autonomy on top of jətʼalutɨ representing ɡədəb masɨfət͡sʼəmat͡ʃəwɨ jəkʼətʼəlubət Happening jəsivil mahɨbəratɨ And sanitary məɡənaɲ bɨzuhanɨ  ləmadakəm əfaɲ hɨɡot͡ʃɨ jɨtʼəkʼəmalu፤ɡɨləsəbot͡ʃɨnɨm polətikawi cause jalat͡ʃəwɨ kɨsot͡ʃ bəməməsɨrət jətʼɨkʼat as for ila the jadərɨɡal ።", 
+            "Type": "Utilities, Energy, or Sanitation", 
+            "DocumentID": "AMH_WL_001612_20140121_G00202AVA"
+        }
+    ], 
+    [
+        {
+            "End": 831, 
+            "SegmentID": "segment-11", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "landslide"
+                    ], 
+                    "text": "የመሬት", 
+                    "weight": 0.92482469531, 
+                    "end_char": 778, 
+                    "start_char": 775
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ሙስና ፣ የመሬት ወረራ ፣ ባጠቃላይ ያለፉት ዓመታት መንግስት ነበረ ለማለት እንደሚዳግታቸው ገልፀዋል ። ", 
+            "TypeConfidence": 0.92482469531, 
+            "Start": 770, 
+            "NatGloss": "because musɨ ፣ jəməret wərəra ፣ batʼəkʼalaj jaləfut Years government nəbərə ləmalət the multiple ɨnɨdəmidaɡɨtat͡ʃə Described ።", 
+            "Type": "Shelter", 
+            "DocumentID": "AMH_WL_001630_20151127_G00202BYD"
+        }, 
+        {
+            "End": 5872, 
+            "SegmentID": "segment-82", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "landslide"
+                    ], 
+                    "text": "የመሬት", 
+                    "weight": 0.92482469531, 
+                    "end_char": 5814, 
+                    "start_char": 5811
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "የኢህአዴግ መንግሥት እስከ አሁን ድረስ የሚሰራበት የከተሞች ልማት ስትራቴጂ አዲስ አበባን ወደ ጎን ከመለጠጥ እና አስከፊውን የመሬት ቅርምት ዘመቻ ከማባባስ ውጪ በከተሞቻችን እድገት ላይ ያመጣው ተጨባጭ ለውጥ አነስተኛ ነው ። ", 
+            "TypeConfidence": 0.92482469531, 
+            "Start": 5732, 
+            "NatGloss": "jəihɨədeɡ government Upto presently Until jəmisərabət jəkətəmot͡ʃ growth sɨtɨrated͡ʒi new flower To ɡo kəmələtʼətʼ And əsɨkəfiwɨ jəməret kʼɨrɨmɨt zəmət͡ʃa as for kəmababa Outside bəkətəmot͡ʃat͡ʃɨ ɨdɨɡət on top of the multiple jamətʼa real transformation little it is ።", 
+            "Type": "Shelter", 
+            "DocumentID": "AMH_WL_001742_20160113_G00202P7F"
+        }, 
+        {
+            "End": 6626, 
+            "SegmentID": "segment-91", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "landslide"
+                    ], 
+                    "text": "የመሬት", 
+                    "weight": 0.92482469531, 
+                    "end_char": 6522, 
+                    "start_char": 6519
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "በአንዳንድ አንቀጾቹ ላይ ( አንቀጽ 39 ፤ የመሬት አዋጅ ወዘተ …) የሚሰነዘሩት ጥያቄዎች ሀገሪቷ ወደ እውነተኛ የኢኮኖሚና የማህበራዊ ኑሮ እድገት ውስጥ በምትገባበት ጊዜ በሚፈጠረው ብሄራዊ መግባባት ሊመለሱ ይችላሉ ። ", 
+            "TypeConfidence": 0.92482469531, 
+            "Start": 6493, 
+            "NatGloss": "bəənɨdanɨd the ənɨkʼət͡sʼot͡ʃ on top of ( section 39 ፤ jəməret əwad͡ʒ put a canon an oven ...) jəmisənəzərut tʼɨjakʼewot͡ʃ həɡəritʷ To factual because jəikonomi jəmahɨbərawi being ɨdɨɡət Through bəmɨtɨɡəbabət time the multiple bəmifətʼərə state məɡɨbabat the limələs the It's possible ።", 
+            "Type": "Shelter", 
+            "DocumentID": "AMH_WL_001742_20160113_G00202P7F"
+        }
+    ], 
+    [
+        {
+            "End": 676, 
+            "SegmentID": "segment-25", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "food"
+                    ], 
+                    "text": "ምግብ", 
+                    "weight": 1.0, 
+                    "end_char": 655, 
+                    "start_char": 653
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "የቀረበልኝን ምግብ አይነቱንም ሆነ አቀራረቡን ከዚህ ", 
+            "TypeConfidence": 1.0, 
+            "Start": 645, 
+            "NatGloss": "jəkʼərəbəlɨɲɨ food əjɨnətunɨm unfold the əkʼərarəb starting from this point", 
+            "Type": "Food Supply", 
+            "DocumentID": "AMH_WL_001612_20140118_G00202AX2"
+        }, 
+        {
+            "End": 805, 
+            "SegmentID": "segment-30", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "food"
+                    ], 
+                    "text": "ምግብ", 
+                    "weight": 1.0, 
+                    "end_char": 783, 
+                    "start_char": 781
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ይህ ምግብ ዳግም እንዳያምርኝ ፀሎቴ ነው ። ” ", 
+            "TypeConfidence": 1.0, 
+            "Start": 778, 
+            "NatGloss": "this food for the second time ɨnɨdajamɨrɨɲ my supplication; benediction it is ። ”", 
+            "Type": "Food Supply", 
+            "DocumentID": "AMH_WL_001612_20140118_G00202AX2"
+        }, 
+        {
+            "End": 2908, 
+            "SegmentID": "segment-92", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "food"
+                    ], 
+                    "text": "ምግብ", 
+                    "weight": 1.0, 
+                    "end_char": 2889, 
+                    "start_char": 2887
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ይሰማል :- አፈር ፣ የመኪና ወይም የሲጋራ ጭስ ፣ የቤንዝን ወይም የተበላሸ ምግብ ሽታ ፣ ሣሙና ፣ ሊጥ ፣ ትርፍራፊ ", 
+            "TypeConfidence": 1.0, 
+            "Start": 2840, 
+            "NatGloss": "jɨsəmal :- əfər ፣ because jəməki or jəsiɡara as for t͡ʃʼɨ ፣ jəbenɨzɨ or jətəbəlaʃə food odor ፣ sanitizer ፣ dough mixture (for preparing እንጀራ) ፣ tɨrɨfɨrafi", 
+            "Type": "Food Supply", 
+            "DocumentID": "AMH_WL_001612_20140118_G00202AX2"
+        }
+    ], 
+    [
+        {
+            "End": 8197, 
+            "SegmentID": "segment-71", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "search"
+                    ], 
+                    "text": "ፍለጋ", 
+                    "weight": 1.0, 
+                    "end_char": 8027, 
+                    "start_char": 8025
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ወደ ኢትዮጵያ የሚገባው የውጭ የግል ኢንቨስትመንት እየጨመረ የሚገኝ ሲሆን በ2013 የግብርና ንግድ ፣ ሃይድሮኤሌክትሪክ ፣ ማዕድን ማውጣት እና ነዳጅ ፍለጋ ኢንቨስትመንት ስራዎች በከፍተኛ ሁኔታ እየጨመሩ ነው።የግብርና ንግድ ኢንቨስትመንት በዋናነት ከህንድ ፣ ከመካካለኛው ምስራቅ እና በውጭ ከሚኖሩ ኢትዮጵያውያን የሚመጡ ሲሆን የመሬት ዋጋው ዝቅተኛ መሆን እና ለጉልበት የሚከፈለው ዋጋ አነስተኛነት ባለሃብቶቹን የሚስብ ሆኗል ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 7932, 
+            "NatGloss": "To Ethiopia the multiple jəmiɡəba Foreign Private inɨvəsɨtɨmənɨt ɨjət͡ʃʼəmərə jəmiɡəɲ Happening bə2013 because jəɡɨbɨrɨ  ፣ hajɨdɨroelekɨtɨrik ፣ maɨdɨ mawɨtʼat And nədad͡ʒ investigation inɨvəsɨtɨmənɨt sɨrawot͡ʃ bəkəfɨtəɲ circumstance the ɨjət͡ʃʼəmər because nəw።jəɡɨbɨrɨ  inɨvəsɨtɨmənɨt bəwananət kəhɨnɨd ፣ the multiple kəməkakaləɲa east And bəwɨt͡ʃʼ the kəminor Ethiopians the jəmimətʼ Happening jəməret the multiple price tag subordinate Being And ləɡulɨbət the multiple jəmikəfələ price tag ənəsɨtəɲanət the baləhabɨtot͡ʃ jəmisɨb honwal ።", 
+            "Type": "Search/Rescue", 
+            "DocumentID": "AMH_WL_001612_20140121_G00202AVA"
+        }, 
+        {
+            "End": 1680, 
+            "SegmentID": "segment-31", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "search"
+                    ], 
+                    "text": "ፍለጋ", 
+                    "weight": 1.0, 
+                    "end_char": 1620, 
+                    "start_char": 1618
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ፕሬዚዳንት ኢሳያስ በሰጡት መግለጫ የኢትዮጵያ መንግሥት ዕርቅ ለመፍጠር ‹‹ ያላንኳኳው በር የለም ›› ካሉ በኋላ ዓላማው እውነት ዕርቅ ፍለጋ ሳይሆን ለዓለም አቀፉ ማኅበረሰብ ሰላም ወዳድ መስሎ ለመታየት ነው የሚል አስተያየት ሰጥተዋል ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 1534, 
+            "NatGloss": "President as for isaja bəsətʼut announcement Ethiopia government settlement ləməfɨtʼər ‹‹ the multiple jalanɨkʷakʷa door he's ›› the kal After the multiple Target fact settlement investigation Not only ləaləm the Including mahɨbərəsəb Peace wədad məsɨlo ləmətajət it is Namely Suggestion sətʼɨtəwal ።", 
+            "Type": "Search/Rescue", 
+            "DocumentID": "AMH_WL_001612_20140212_G00202B1J"
+        }, 
+        {
+            "End": 5197, 
+            "SegmentID": "segment-53", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "catastrophe", 
+                        "disaster"
+                    ], 
+                    "text": "ቀውስ", 
+                    "weight": 0.92482469531, 
+                    "end_char": 5107, 
+                    "start_char": 5105
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ከመንግሥት ከሚያገኙት በጀት ለዚሁ ብለው የሚያውሉት ገንዘብ መኖር አለበት ፤›› በማለት እንደዚህኛው የዓለም አቀፉ ማኅበረሰብ የዕርዳታ ዓይን ሌላ ቦታ ( የመካከለኛው ምሥራቅ የስደት ቀውስ ) ሆኖ ፣ መንግሥት ከሞላ ጐደል ዕርዳታ የመስጠቱን ሥራ በራሱ አቅም ሲሠራ ሸክሙ ሙሉ በሙሉ እሱ ላይ እንዳይወድቅ ያስችል እንደነበር ያስረዳሉ ። ", 
+            "TypeConfidence": 0.92482469531, 
+            "Start": 4991, 
+            "NatGloss": "kəmənɨɡɨsɨt kəmijaɡəɲut bəd͡ʒət the For this By jəmijawɨlut cash mənor Should ፤›› By saying the multiple ɨnɨdəzihɨɲa World's the Including mahɨbərəsəb jəɨrɨdata ajɨ a new further point ( the multiple jəməkakələɲa east jəsɨdət crisis ) on of ፣ government kəmol ɡʷedəl ɨrɨdat the jəməsɨtʼət work the bəras Potential sisəra the load filled All the ɨs on top of ɨnɨdajɨwədɨkʼ jasɨt͡ʃɨl As it was the jasɨrədal ።", 
+            "Type": "Search/Rescue", 
+            "DocumentID": "AMH_WL_001630_20151123_G00202BZV"
+        }
+    ], 
+    [
+        {
+            "End": 447, 
+            "SegmentID": "segment-9", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "campaigns"
+                    ], 
+                    "text": "ዘመቻዎች", 
+                    "weight": 1.0, 
+                    "end_char": 412, 
+                    "start_char": 408
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "በሂጃብ በሶላት ላይ ለሚደረጉ ዘመቻዎች መፍትሄው ምንድን ነው ክፍል ሁለት ልዩ ዝግጅት ተካቷል ", 
+            "TypeConfidence": 1.0, 
+            "Start": 389, 
+            "NatGloss": "bəhid͡ʒab bəsolat on top of the ləmidərəɡ zəmət͡ʃawot͡ʃ the multiple answer mɨnɨdɨ it is room two particular plan təkatʷal", 
+            "Type": "Regime Change", 
+            "DocumentID": "AMH_WL_001630_20151119_G00202C0S"
+        }, 
+        {
+            "End": 810, 
+            "SegmentID": "segment-15", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "campaign"
+                    ], 
+                    "text": "ዘመቻው", 
+                    "weight": 1.0, 
+                    "end_char": 793, 
+                    "start_char": 790
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ዘመቻው ፣ ሚስጥራዊ ሴራ አይደለም ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 790, 
+            "NatGloss": "the multiple zəmət͡ʃa ፣ misɨtʼɨrawi maneuver it is not ።", 
+            "Type": "Regime Change", 
+            "DocumentID": "AMH_WL_001630_20151128_G00202BXY"
+        }, 
+        {
+            "End": 1092, 
+            "SegmentID": "segment-13", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "campaign"
+                    ], 
+                    "text": "ዘመቻው", 
+                    "weight": 1.0, 
+                    "end_char": 1058, 
+                    "start_char": 1055
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "እነዚህ ከብዙ በጥቂቱ የተዘረዘሩት እስትንፋሱን የማስቀጠል ዘመቻው ጊዜ ከሚገዛለት በስተቀር በፍጹም ሊታደጉት አይችሉም ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 1018, 
+            "NatGloss": "This the kəbɨz the bətʼɨkʼ jətəzərəzərut the breathing jəmasɨkʼətʼəl the multiple zəmət͡ʃa time kəmiɡəzalət bəsɨtəkʼər bəfɨt͡sʼum litadəɡut əjɨt͡ʃɨlum ።", 
+            "Type": "Regime Change", 
+            "DocumentID": "AMH_WL_001569_20140101_G00201EJ5"
+        }
+    ], 
+    [
+        {
+            "End": 8197, 
+            "SegmentID": "segment-71", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "landslide"
+                    ], 
+                    "text": "የመሬት", 
+                    "weight": 0.92482469531, 
+                    "end_char": 8139, 
+                    "start_char": 8136
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ወደ ኢትዮጵያ የሚገባው የውጭ የግል ኢንቨስትመንት እየጨመረ የሚገኝ ሲሆን በ2013 የግብርና ንግድ ፣ ሃይድሮኤሌክትሪክ ፣ ማዕድን ማውጣት እና ነዳጅ ፍለጋ ኢንቨስትመንት ስራዎች በከፍተኛ ሁኔታ እየጨመሩ ነው።የግብርና ንግድ ኢንቨስትመንት በዋናነት ከህንድ ፣ ከመካካለኛው ምስራቅ እና በውጭ ከሚኖሩ ኢትዮጵያውያን የሚመጡ ሲሆን የመሬት ዋጋው ዝቅተኛ መሆን እና ለጉልበት የሚከፈለው ዋጋ አነስተኛነት ባለሃብቶቹን የሚስብ ሆኗል ። ", 
+            "TypeConfidence": 0.92482469531, 
+            "Start": 7932, 
+            "NatGloss": "To Ethiopia the multiple jəmiɡəba Foreign Private inɨvəsɨtɨmənɨt ɨjət͡ʃʼəmərə jəmiɡəɲ Happening bə2013 because jəɡɨbɨrɨ  ፣ hajɨdɨroelekɨtɨrik ፣ maɨdɨ mawɨtʼat And nədad͡ʒ investigation inɨvəsɨtɨmənɨt sɨrawot͡ʃ bəkəfɨtəɲ circumstance the ɨjət͡ʃʼəmər because nəw።jəɡɨbɨrɨ  inɨvəsɨtɨmənɨt bəwananət kəhɨnɨd ፣ the multiple kəməkakaləɲa east And bəwɨt͡ʃʼ the kəminor Ethiopians the jəmimətʼ Happening jəməret the multiple price tag subordinate Being And ləɡulɨbət the multiple jəmikəfələ price tag ənəsɨtəɲanət the baləhabɨtot͡ʃ jəmisɨb honwal ።", 
+            "Type": "Evacuation", 
+            "DocumentID": "AMH_WL_001612_20140121_G00202AVA"
+        }, 
+        {
+            "End": 831, 
+            "SegmentID": "segment-11", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "landslide"
+                    ], 
+                    "text": "የመሬት", 
+                    "weight": 0.92482469531, 
+                    "end_char": 778, 
+                    "start_char": 775
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ሙስና ፣ የመሬት ወረራ ፣ ባጠቃላይ ያለፉት ዓመታት መንግስት ነበረ ለማለት እንደሚዳግታቸው ገልፀዋል ። ", 
+            "TypeConfidence": 0.92482469531, 
+            "Start": 770, 
+            "NatGloss": "because musɨ ፣ jəməret wərəra ፣ batʼəkʼalaj jaləfut Years government nəbərə ləmalət the multiple ɨnɨdəmidaɡɨtat͡ʃə Described ።", 
+            "Type": "Evacuation", 
+            "DocumentID": "AMH_WL_001630_20151127_G00202BYD"
+        }, 
+        {
+            "End": 5872, 
+            "SegmentID": "segment-82", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "landslide"
+                    ], 
+                    "text": "የመሬት", 
+                    "weight": 0.92482469531, 
+                    "end_char": 5814, 
+                    "start_char": 5811
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "የኢህአዴግ መንግሥት እስከ አሁን ድረስ የሚሰራበት የከተሞች ልማት ስትራቴጂ አዲስ አበባን ወደ ጎን ከመለጠጥ እና አስከፊውን የመሬት ቅርምት ዘመቻ ከማባባስ ውጪ በከተሞቻችን እድገት ላይ ያመጣው ተጨባጭ ለውጥ አነስተኛ ነው ። ", 
+            "TypeConfidence": 0.92482469531, 
+            "Start": 5732, 
+            "NatGloss": "jəihɨədeɡ government Upto presently Until jəmisərabət jəkətəmot͡ʃ growth sɨtɨrated͡ʒi new flower To ɡo kəmələtʼətʼ And əsɨkəfiwɨ jəməret kʼɨrɨmɨt zəmət͡ʃa as for kəmababa Outside bəkətəmot͡ʃat͡ʃɨ ɨdɨɡət on top of the multiple jamətʼa real transformation little it is ።", 
+            "Type": "Evacuation", 
+            "DocumentID": "AMH_WL_001742_20160113_G00202P7F"
+        }
+    ], 
+    [
+        {
+            "End": 6597, 
+            "SegmentID": "segment-115", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "clinic"
+                    ], 
+                    "text": "ክሊኒክ", 
+                    "weight": 1.0, 
+                    "end_char": 6533, 
+                    "start_char": 6530
+                }, 
+                {
+                    "source_keyword": [
+                        "infection"
+                    ], 
+                    "text": "በሽታ", 
+                    "weight": 0.7599971918899999, 
+                    "end_char": 6569, 
+                    "start_char": 6567
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "አስቀድሞ የህክምና ምርመራ ማድረግ ግዴታ ነው ተብሎ አንድ የግል ክሊኒክ ብቻ በመሄድ 500 ብር እየከፈሉ ከጉበትና ከሳንባ በሽታ ነጻ የሆኑበትን ማስረጃ እንዲያመጡ ተደረገ ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 6489, 
+            "NatGloss": "ahead of time because jəhɨkɨmɨ examination Do responsibility it is Being called one Private clinic Only bəməhed 500 silver the ɨjəkəfəl because kəɡubətɨ kəsanɨba infection sanitary jəhonubətɨ evidence the ɨnɨdijamətʼ tədərəɡə ።", 
+            "Type": "Medical Assistance", 
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX"
+        }, 
+        {
+            "End": 3596, 
+            "SegmentID": "segment-105", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "medical"
+                    ], 
+                    "text": "የጤና", 
+                    "weight": 1.0, 
+                    "end_char": 3562, 
+                    "start_char": 3560
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "በነፍሰጡሯ ላይ እጅግ አደገኛ የሆኑ የጤና ችግሮችን ሊያስከትሉባት ይችላሉ ” ሲሉ አስረድተዋል ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 3537, 
+            "NatGloss": "bənəfɨsətʼurʷa on top of greatly ədəɡəɲa That are because my jətʼ t͡ʃɨɡɨrot͡ʃɨ lijasɨkətɨlubat the It's possible ” Saying əsɨrədɨtəwal ።", 
+            "Type": "Medical Assistance", 
+            "DocumentID": "AMH_WL_001612_20140118_G00202AX2"
+        }, 
+        {
+            "End": 491, 
+            "SegmentID": "segment-4", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "medical"
+                    ], 
+                    "text": "ህክምና", 
+                    "weight": 1.0, 
+                    "end_char": 470, 
+                    "start_char": 467
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "በተለይ በሽብር ሰበብ የታሰሩ የተቃዋሚ ፓርቲ አባላትና አመራሮች ከሚደርስባቸው ድብደባ ባሻገር ህክምና እንደማያገኙም ምንጮች ዘግበዋል ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 407, 
+            "NatGloss": "particularly bəʃɨbɨr excuse the jətasər jətəkʼawami party because əbalatɨ əmərarot͡ʃ the multiple kəmidərɨsɨbat͡ʃə pounding baʃaɡər medical treatment ɨnɨdəmajaɡəɲum mɨnɨt͡ʃʼot͡ʃ zəɡɨbəwal ።", 
+            "Type": "Medical Assistance", 
+            "DocumentID": "AMH_WL_001630_20151220_G00202BRV"
+        }
+    ], 
+    [
+        {
+            "End": 5118, 
+            "SegmentID": "segment-108", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "terrorist"
+                    ], 
+                    "text": "አሸባሪ", 
+                    "weight": 0.7, 
+                    "end_char": 5081, 
+                    "start_char": 5078
+                }, 
+                {
+                    "source_keyword": [
+                        "terrorist"
+                    ], 
+                    "text": "አሸባሪ", 
+                    "weight": 0.7, 
+                    "end_char": 5107, 
+                    "start_char": 5104
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "በመጀሪያ ደረጃ ፣ ወያኔ የሰበሰባቸው ሙትቻ አሻንጉሊቶች በቀላቢ ጌታቸው በመለስ ትዕዛዝ ግንቦት ሰባትን “ አሸባሪ ” ብለው ስለፈረጁት ግንቦት ሰባት አሸባሪ ሊሆን አይችልም ። ", 
+            "TypeConfidence": 0.7, 
+            "Start": 5012, 
+            "NatGloss": "bəməd͡ʒərija Level ፣ tribal movement in Tigray the multiple jəsəbəsəbat͡ʃə mutɨt͡ʃ əʃanɨɡulitot͡ʃ bəkʼəlabi the multiple ɡetat͡ʃə as for bəmələ order fifth month səbatɨ “ terrorist ” By sɨləfərəd͡ʒut fifth month səbat terrorist While it is əjɨt͡ʃɨlɨm ።", 
+            "Type": "Terrorism", 
+            "DocumentID": "AMH_WL_001749_20110913_G00202Q16"
+        }, 
+        {
+            "End": 708, 
+            "SegmentID": "segment-12", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "terrorist"
+                    ], 
+                    "text": "በሽብር", 
+                    "weight": 0.7, 
+                    "end_char": 633, 
+                    "start_char": 630
+                }, 
+                {
+                    "source_keyword": [
+                        "terrorist"
+                    ], 
+                    "text": "በሽብር", 
+                    "weight": 0.7, 
+                    "end_char": 657, 
+                    "start_char": 654
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "በአቃቤ ህግ ክስ ላይ እንደተመለከተው ተከሳሾች ‹‹…. ህገ መንግስቱንና ህገ መንግስታዊ ስርዓቱን በኃይል የማፈራረስ ዓላማ ይዘው …. በሽብር ድርጅት ውስጥ አባል በመሆንና በሽብር ድርጅት ተግባር ላይ ለመሳተፍ በማሰባቸው ….›› የሽብርተኝነት ክስ ቀርቦባቸዋል ። ", 
+            "TypeConfidence": 0.7, 
+            "Start": 547, 
+            "NatGloss": "bəəkʼabe Law charge on top of the multiple ɨnɨdətəmələkətə təkəsaʃot͡ʃ ‹‹.... hɨɡə because mənɨɡɨsɨtunɨ hɨɡə mənɨɡɨsɨtawi the system bəhajɨl as for jəmafərarə Target the multiple jɨzə .... bəʃɨbɨr company Through part because bəməhonɨ bəʃɨbɨr company performance on top of ləməsatəf the multiple bəmasəbat͡ʃə ....›› jəʃɨbɨrɨtəɲɨnət charge kʼərɨbobat͡ʃəwal ።", 
+            "Type": "Terrorism", 
+            "DocumentID": "AMH_WL_001565_20150618_G00201Y6S"
+        }, 
+        {
+            "End": 10035, 
+            "SegmentID": "segment-125", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "extremist"
+                    ], 
+                    "text": "አክራሪ", 
+                    "weight": 0.7, 
+                    "end_char": 9976, 
+                    "start_char": 9973
+                }, 
+                {
+                    "source_keyword": [
+                        "terrorist"
+                    ], 
+                    "text": "አሸባሪ", 
+                    "weight": 0.7, 
+                    "end_char": 9945, 
+                    "start_char": 9942
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ሰላማዊውን ሙስሊም ሁሉ ” ለምን ተቃውምከኝ ” በሚል ” አሸባሪ ” ብሎ መጥራትና ማሳደድ እነዚህን ዜጎች ” አክራሪ ” ወደሚባለው ጎራ ወይም በዚህ ወደሚከሰሰሱት ሰዎች የሚገፋቸው እንደሚሆን መገመት አይከብድም ። ", 
+            "TypeConfidence": 0.7, 
+            "Start": 9909, 
+            "NatGloss": "səlamawiwɨ musɨlim each ” Why təkʼawɨmɨkəɲ ” By saying ” terrorist ” Said because mətʼɨratɨ masadəd ɨnəzihɨ Citizens ” əkɨrari ” the multiple wədəmibalə group or passing through this place wədəmikəsəsəsut People the multiple jəmiɡəfat͡ʃə ɨnɨdəmiho məɡəmət əjɨkəbɨdɨm ።", 
+            "Type": "Terrorism", 
+            "DocumentID": "AMH_WL_001571_20121201_G00201YKX"
+        }
+    ], 
+    [
+        {
+            "End": 1388, 
+            "SegmentID": "segment-9", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "drought"
+                    ], 
+                    "text": "ድርቁን", 
+                    "weight": 1.0, 
+                    "end_char": 1299, 
+                    "start_char": 1296
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ይሁን እንጂ የኢትዮጵያ መንግስት ድርቁን በራሱ አቅም ብቻ መቋቋም እንደሚችል አድርጐ ማቅረቡ አለማቀፍ ማህበረሰቡ ችግሩን በአፋጣኝ ተረድቶ ልገሣ እንዳያደርግ የሚያዘናጋ ነው ብሏል ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 1275, 
+            "NatGloss": "the this but Ethiopia government the dearth the bəras Potential Only məkʼʷakʼʷam ɨnɨdəmit͡ʃɨl ədɨrɨɡʷe the makʼɨrəb ələmakʼəf the mahɨbərəsəb the trouble bəəfatʼaɲ tərədɨto lɨɡəsa ɨnɨdajadərɨɡ jəmijazənaɡ it is bɨlʷal ።", 
+            "Type": "Water Supply", 
+            "DocumentID": "AMH_WL_001630_20151115_G00202C2A"
+        }, 
+        {
+            "End": 1015, 
+            "SegmentID": "segment-13", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "drought"
+                    ], 
+                    "text": "ድርቁን", 
+                    "weight": 1.0, 
+                    "end_char": 998, 
+                    "start_char": 995
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "በሱማሊያ ያለው ግጭት ድርቁን እንዳባባሰውም ተናግረዋል ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 981, 
+            "NatGloss": "bəsumalij Existing collision the dearth ɨnɨdababasəwɨm Said ።", 
+            "Type": "Water Supply", 
+            "DocumentID": "AMH_NW_000001_20110712_G002006FH"
+        }, 
+        {
+            "End": 6646, 
+            "SegmentID": "segment-127", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "drought"
+                    ], 
+                    "text": "ድርቁን", 
+                    "weight": 1.0, 
+                    "end_char": 6595, 
+                    "start_char": 6592
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "የራሱ ሰዎች ዘመነ ድርቁን ተገን አድርገው የተቸገሩ ሰዎቻቸውን በወለድና በአራጣ ብድር አስጨንቀው ያዟቸው ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 6580, 
+            "NatGloss": "the jəras People zəmənə the dearth defender Did the jətət͡ʃəɡər səwot͡ʃat͡ʃəwɨ because bəwələdɨ bəəratʼa credit the multiple əsɨt͡ʃʼənɨkʼə the multiple jazʷat͡ʃə ።", 
+            "Type": "Water Supply", 
+            "DocumentID": "AMH_WL_001569_20150201_G00200I4R"
+        }
+    ], 
+    [
+        {
+            "End": 7850, 
+            "SegmentID": "segment-136", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "unrest", 
+                        "riot"
+                    ], 
+                    "text": "ሁከት", 
+                    "weight": 1.0, 
+                    "end_char": 7813, 
+                    "start_char": 7811
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ሁከት ፈጣሪ ናቸው አስብሎ በፖሊስ አደባባይ ላይ አስደበደባቸው ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 7811, 
+            "NatGloss": "turbulence god Are əsɨbɨlo as for bəpoli ədəbabaj on top of the multiple əsɨdəbədəbat͡ʃə ።", 
+            "Type": "Crime Unrest", 
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX"
+        }, 
+        {
+            "End": 1376, 
+            "SegmentID": "segment-9", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "protest"
+                    ], 
+                    "text": "ተቃውሞ", 
+                    "weight": 1.0, 
+                    "end_char": 1368, 
+                    "start_char": 1365
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "በሰላም የመሰብሰብ ነጻነት ከ2012 ዓ.ም. ጀምሮ ከሀገሪቱ አጠቃላይ ህዝብ ቢያንስ 30 በመቶ የሚሆነውን ቁጥር የሚይዙት የኢትዮጵያ ሙስሊም ማህበረሰብ አባላት ተከታታይ ህዝባዊ ተቃውሞ አድርገዋል ። ", 
+            "TypeConfidence": 1.0, 
+            "Start": 1253, 
+            "NatGloss": "bəsəlam jəməsəbɨsəb autonomy kə2012 a.mɨ. Since the kəhəɡər entirely public as for bijanɨ 30 Out of Hundred jəmihonəwɨ Number jəmijɨzut Ethiopia musɨlim mahɨbərəsəb Members successive civic protest ədɨrɨɡəwal ።", 
+            "Type": "Crime Unrest", 
+            "DocumentID": "AMH_WL_001612_20140121_G00202AVA"
+        }, 
+        {
+            "End": 56, 
+            "SegmentID": "segment-0", 
+            "Keyword": [
+                {
+                    "source_keyword": [
+                        "protest"
+                    ], 
+                    "text": "ተቃውሞ", 
+                    "weight": 1.0, 
+                    "end_char": 52, 
+                    "start_char": 49
+                }
+            ], 
+            "Source": "Tian", 
+            "Text": "ባህርዳር ከተማ ማረሚያ ቤት የሚገኙ እስረኞች የሚደርስባቸውን በደል በመቃወም ተቃውሞ አሰሙ ", 
+            "TypeConfidence": 1.0, 
+            "Start": 0, 
+            "NatGloss": "bahɨrɨdar city marəmija home That are found ɨsɨrəɲot͡ʃ jəmidərɨsɨbat͡ʃəwɨ damage bəməkʼawəm protest the əsəm", 
+            "Type": "Crime Unrest", 
+            "DocumentID": "AMH_WL_001630_20151220_G00202BRV"
+        }
+    ]
+]

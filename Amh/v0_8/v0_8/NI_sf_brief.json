@@ -1,0 +1,755 @@
+[
+    [
+        {
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX",
+            "Type": "Infrastructure",
+            "TypeConfidence": 1.0,
+            "Start": 1177,
+            "End": 1262,
+            "Text": "አሁን የተፈጠረው ትርምስ ከመከሰቱ ስድስት ወር በፊት በህጋዊ መንገድ ሳዑዲ አረቢያ ሄዳ የነበረችው ጓደኛዋ “ ህገወጥ ” ተብላ ተመልሳለች ። ",
+            "SegmentID": "segment-26",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "መንገድ",
+                    "start_char": 1216,
+                    "end_char": 1219,
+                    "source_keyword": [
+                        "highway"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX",
+            "Type": "Infrastructure",
+            "TypeConfidence": 1.0,
+            "Start": 1583,
+            "End": 1640,
+            "Text": "የሚገርመው የኑሪያ ጓደኛ በህጋዊ መንገድ የላካት ድርጅት ዘንድ ስትሄድ የተሰጣት መልስ ነው ። ",
+            "SegmentID": "segment-35",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "መንገድ",
+                    "start_char": 1604,
+                    "end_char": 1607,
+                    "source_keyword": [
+                        "highway"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX",
+            "Type": "Infrastructure",
+            "TypeConfidence": 1.0,
+            "Start": 4662,
+            "End": 4750,
+            "Text": "አቶ መለስ የጀመሩትን ለማስቀጠል ክርስቶስን ወደ ኋላ አድርገው የሚምሉት አቶ ሃይለማርያም ደሳለኝ ስራው በህጋዊ መንገድ እንደሚሰራም ወተወቱ ። ",
+            "SegmentID": "segment-92",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "መንገድ",
+                    "start_char": 4733,
+                    "end_char": 4736,
+                    "source_keyword": [
+                        "highway"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX",
+            "Type": "Utilities, Energy, or Sanitation",
+            "TypeConfidence": 1.0,
+            "Start": 6489,
+            "End": 6597,
+            "Text": "አስቀድሞ የህክምና ምርመራ ማድረግ ግዴታ ነው ተብሎ አንድ የግል ክሊኒክ ብቻ በመሄድ 500 ብር እየከፈሉ ከጉበትና ከሳንባ በሽታ ነጻ የሆኑበትን ማስረጃ እንዲያመጡ ተደረገ ። ",
+            "SegmentID": "segment-115",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ነጻ",
+                    "start_char": 6571,
+                    "end_char": 6572,
+                    "source_keyword": [
+                        "sanitary"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001612_20140116_G00202AZA",
+            "Type": "Utilities, Energy, or Sanitation",
+            "TypeConfidence": 1.0,
+            "Start": 935,
+            "End": 1115,
+            "Text": "“ የፖለቲካው መስመር ክፍተትን አይወድም ” በማለት የሰከነ አመለካከት ላላቸውና ከስሜት ፖለቲካ ነጻ ለሆኑት ዜጎች መልዕክት ያስተላለፉት ዶ/ር በየነ ፣ ሰዓትና በጀት በመመደብ የተለየ አመለካከት ያላቸውን ክፍሎች ሰድቦ የማሰደብ ተግባር ሲከናወን ማየታቸው በጅጉ እንደሚያሳዝናቸው ተናግረዋል ። ",
+            "SegmentID": "segment-9",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ነጻ",
+                    "start_char": 994,
+                    "end_char": 995,
+                    "source_keyword": [
+                        "sanitary"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001612_20140121_G00202AVA",
+            "Type": "Utilities, Energy, or Sanitation",
+            "TypeConfidence": 1.0,
+            "Start": 365,
+            "End": 568,
+            "Text": "ይልቁንም የኢትዮጵያ ባለስልጣናት ሃሳብን የመግለጽ ፣ የመደራጀት እና በሰላም የመሰብሰብ ነጻነት ላይ የጣሉትን ጥብቅ ገደብ ማስፈጸማቸውን የቀጠሉበት ሲሆን የሲቪል ማህበራትን እና ነጻ መገናኛ ብዙሃንን እንቅስቃሴ ለማዳከም አፋኝ ሕጎችን ይጠቀማሉ፤ግለሰቦችንም ፖለቲካዊ መነሾ ያላቸውን ክሶች በመመስረት የጥቃት ዒላማ ያደርጋሉ ። ",
+            "SegmentID": "segment-3",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ነጻ",
+                    "start_char": 477,
+                    "end_char": 478,
+                    "source_keyword": [
+                        "sanitary"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "DocumentID": "AMH_WL_001630_20151127_G00202BYD",
+            "Type": "Shelter",
+            "TypeConfidence": 0.92482469531,
+            "Start": 770,
+            "End": 831,
+            "Text": "ሙስና ፣ የመሬት ወረራ ፣ ባጠቃላይ ያለፉት ዓመታት መንግስት ነበረ ለማለት እንደሚዳግታቸው ገልፀዋል ። ",
+            "SegmentID": "segment-11",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "የመሬት",
+                    "start_char": 775,
+                    "end_char": 778,
+                    "source_keyword": [
+                        "landslide"
+                    ],
+                    "weight": 0.92482469531
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001742_20160113_G00202P7F",
+            "Type": "Shelter",
+            "TypeConfidence": 0.92482469531,
+            "Start": 5732,
+            "End": 5872,
+            "Text": "የኢህአዴግ መንግሥት እስከ አሁን ድረስ የሚሰራበት የከተሞች ልማት ስትራቴጂ አዲስ አበባን ወደ ጎን ከመለጠጥ እና አስከፊውን የመሬት ቅርምት ዘመቻ ከማባባስ ውጪ በከተሞቻችን እድገት ላይ ያመጣው ተጨባጭ ለውጥ አነስተኛ ነው ። ",
+            "SegmentID": "segment-82",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "የመሬት",
+                    "start_char": 5811,
+                    "end_char": 5814,
+                    "source_keyword": [
+                        "landslide"
+                    ],
+                    "weight": 0.92482469531
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001742_20160113_G00202P7F",
+            "Type": "Shelter",
+            "TypeConfidence": 0.92482469531,
+            "Start": 6493,
+            "End": 6626,
+            "Text": "በአንዳንድ አንቀጾቹ ላይ ( አንቀጽ 39 ፤ የመሬት አዋጅ ወዘተ …) የሚሰነዘሩት ጥያቄዎች ሀገሪቷ ወደ እውነተኛ የኢኮኖሚና የማህበራዊ ኑሮ እድገት ውስጥ በምትገባበት ጊዜ በሚፈጠረው ብሄራዊ መግባባት ሊመለሱ ይችላሉ ። ",
+            "SegmentID": "segment-91",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "የመሬት",
+                    "start_char": 6519,
+                    "end_char": 6522,
+                    "source_keyword": [
+                        "landslide"
+                    ],
+                    "weight": 0.92482469531
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "DocumentID": "AMH_WL_001612_20140118_G00202AX2",
+            "Type": "Food Supply",
+            "TypeConfidence": 1.0,
+            "Start": 645,
+            "End": 676,
+            "Text": "የቀረበልኝን ምግብ አይነቱንም ሆነ አቀራረቡን ከዚህ ",
+            "SegmentID": "segment-25",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ምግብ",
+                    "start_char": 653,
+                    "end_char": 655,
+                    "source_keyword": [
+                        "food"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001612_20140118_G00202AX2",
+            "Type": "Food Supply",
+            "TypeConfidence": 1.0,
+            "Start": 778,
+            "End": 805,
+            "Text": "ይህ ምግብ ዳግም እንዳያምርኝ ፀሎቴ ነው ። ” ",
+            "SegmentID": "segment-30",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ምግብ",
+                    "start_char": 781,
+                    "end_char": 783,
+                    "source_keyword": [
+                        "food"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001612_20140118_G00202AX2",
+            "Type": "Food Supply",
+            "TypeConfidence": 1.0,
+            "Start": 2840,
+            "End": 2908,
+            "Text": "ይሰማል :- አፈር ፣ የመኪና ወይም የሲጋራ ጭስ ፣ የቤንዝን ወይም የተበላሸ ምግብ ሽታ ፣ ሣሙና ፣ ሊጥ ፣ ትርፍራፊ ",
+            "SegmentID": "segment-92",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ምግብ",
+                    "start_char": 2887,
+                    "end_char": 2889,
+                    "source_keyword": [
+                        "food"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "DocumentID": "AMH_WL_001612_20140121_G00202AVA",
+            "Type": "Search/Rescue",
+            "TypeConfidence": 1.0,
+            "Start": 7932,
+            "End": 8197,
+            "Text": "ወደ ኢትዮጵያ የሚገባው የውጭ የግል ኢንቨስትመንት እየጨመረ የሚገኝ ሲሆን በ2013 የግብርና ንግድ ፣ ሃይድሮኤሌክትሪክ ፣ ማዕድን ማውጣት እና ነዳጅ ፍለጋ ኢንቨስትመንት ስራዎች በከፍተኛ ሁኔታ እየጨመሩ ነው።የግብርና ንግድ ኢንቨስትመንት በዋናነት ከህንድ ፣ ከመካካለኛው ምስራቅ እና በውጭ ከሚኖሩ ኢትዮጵያውያን የሚመጡ ሲሆን የመሬት ዋጋው ዝቅተኛ መሆን እና ለጉልበት የሚከፈለው ዋጋ አነስተኛነት ባለሃብቶቹን የሚስብ ሆኗል ። ",
+            "SegmentID": "segment-71",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ፍለጋ",
+                    "start_char": 8025,
+                    "end_char": 8027,
+                    "source_keyword": [
+                        "search"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001612_20140212_G00202B1J",
+            "Type": "Search/Rescue",
+            "TypeConfidence": 1.0,
+            "Start": 1534,
+            "End": 1680,
+            "Text": "ፕሬዚዳንት ኢሳያስ በሰጡት መግለጫ የኢትዮጵያ መንግሥት ዕርቅ ለመፍጠር ‹‹ ያላንኳኳው በር የለም ›› ካሉ በኋላ ዓላማው እውነት ዕርቅ ፍለጋ ሳይሆን ለዓለም አቀፉ ማኅበረሰብ ሰላም ወዳድ መስሎ ለመታየት ነው የሚል አስተያየት ሰጥተዋል ። ",
+            "SegmentID": "segment-31",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ፍለጋ",
+                    "start_char": 1618,
+                    "end_char": 1620,
+                    "source_keyword": [
+                        "search"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001630_20151123_G00202BZV",
+            "Type": "Search/Rescue",
+            "TypeConfidence": 0.92482469531,
+            "Start": 4991,
+            "End": 5197,
+            "Text": "ከመንግሥት ከሚያገኙት በጀት ለዚሁ ብለው የሚያውሉት ገንዘብ መኖር አለበት ፤›› በማለት እንደዚህኛው የዓለም አቀፉ ማኅበረሰብ የዕርዳታ ዓይን ሌላ ቦታ ( የመካከለኛው ምሥራቅ የስደት ቀውስ ) ሆኖ ፣ መንግሥት ከሞላ ጐደል ዕርዳታ የመስጠቱን ሥራ በራሱ አቅም ሲሠራ ሸክሙ ሙሉ በሙሉ እሱ ላይ እንዳይወድቅ ያስችል እንደነበር ያስረዳሉ ። ",
+            "SegmentID": "segment-53",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ቀውስ",
+                    "start_char": 5105,
+                    "end_char": 5107,
+                    "source_keyword": [
+                        "catastrophe",
+                        "disaster"
+                    ],
+                    "weight": 0.92482469531
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "DocumentID": "AMH_WL_001630_20151119_G00202C0S",
+            "Type": "Regime Change",
+            "TypeConfidence": 1.0,
+            "Start": 389,
+            "End": 447,
+            "Text": "በሂጃብ በሶላት ላይ ለሚደረጉ ዘመቻዎች መፍትሄው ምንድን ነው ክፍል ሁለት ልዩ ዝግጅት ተካቷል ",
+            "SegmentID": "segment-9",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ዘመቻዎች",
+                    "start_char": 408,
+                    "end_char": 412,
+                    "source_keyword": [
+                        "campaigns"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001630_20151128_G00202BXY",
+            "Type": "Regime Change",
+            "TypeConfidence": 1.0,
+            "Start": 790,
+            "End": 810,
+            "Text": "ዘመቻው ፣ ሚስጥራዊ ሴራ አይደለም ። ",
+            "SegmentID": "segment-15",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ዘመቻው",
+                    "start_char": 790,
+                    "end_char": 793,
+                    "source_keyword": [
+                        "campaign"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001569_20140101_G00201EJ5",
+            "Type": "Regime Change",
+            "TypeConfidence": 1.0,
+            "Start": 1018,
+            "End": 1092,
+            "Text": "እነዚህ ከብዙ በጥቂቱ የተዘረዘሩት እስትንፋሱን የማስቀጠል ዘመቻው ጊዜ ከሚገዛለት በስተቀር በፍጹም ሊታደጉት አይችሉም ። ",
+            "SegmentID": "segment-13",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ዘመቻው",
+                    "start_char": 1055,
+                    "end_char": 1058,
+                    "source_keyword": [
+                        "campaign"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "DocumentID": "AMH_WL_001612_20140121_G00202AVA",
+            "Type": "Evacuation",
+            "TypeConfidence": 0.92482469531,
+            "Start": 7932,
+            "End": 8197,
+            "Text": "ወደ ኢትዮጵያ የሚገባው የውጭ የግል ኢንቨስትመንት እየጨመረ የሚገኝ ሲሆን በ2013 የግብርና ንግድ ፣ ሃይድሮኤሌክትሪክ ፣ ማዕድን ማውጣት እና ነዳጅ ፍለጋ ኢንቨስትመንት ስራዎች በከፍተኛ ሁኔታ እየጨመሩ ነው።የግብርና ንግድ ኢንቨስትመንት በዋናነት ከህንድ ፣ ከመካካለኛው ምስራቅ እና በውጭ ከሚኖሩ ኢትዮጵያውያን የሚመጡ ሲሆን የመሬት ዋጋው ዝቅተኛ መሆን እና ለጉልበት የሚከፈለው ዋጋ አነስተኛነት ባለሃብቶቹን የሚስብ ሆኗል ። ",
+            "SegmentID": "segment-71",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "የመሬት",
+                    "start_char": 8136,
+                    "end_char": 8139,
+                    "source_keyword": [
+                        "landslide"
+                    ],
+                    "weight": 0.92482469531
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001630_20151127_G00202BYD",
+            "Type": "Evacuation",
+            "TypeConfidence": 0.92482469531,
+            "Start": 770,
+            "End": 831,
+            "Text": "ሙስና ፣ የመሬት ወረራ ፣ ባጠቃላይ ያለፉት ዓመታት መንግስት ነበረ ለማለት እንደሚዳግታቸው ገልፀዋል ። ",
+            "SegmentID": "segment-11",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "የመሬት",
+                    "start_char": 775,
+                    "end_char": 778,
+                    "source_keyword": [
+                        "landslide"
+                    ],
+                    "weight": 0.92482469531
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001742_20160113_G00202P7F",
+            "Type": "Evacuation",
+            "TypeConfidence": 0.92482469531,
+            "Start": 5732,
+            "End": 5872,
+            "Text": "የኢህአዴግ መንግሥት እስከ አሁን ድረስ የሚሰራበት የከተሞች ልማት ስትራቴጂ አዲስ አበባን ወደ ጎን ከመለጠጥ እና አስከፊውን የመሬት ቅርምት ዘመቻ ከማባባስ ውጪ በከተሞቻችን እድገት ላይ ያመጣው ተጨባጭ ለውጥ አነስተኛ ነው ። ",
+            "SegmentID": "segment-82",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "የመሬት",
+                    "start_char": 5811,
+                    "end_char": 5814,
+                    "source_keyword": [
+                        "landslide"
+                    ],
+                    "weight": 0.92482469531
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX",
+            "Type": "Medical Assistance",
+            "TypeConfidence": 1.0,
+            "Start": 6489,
+            "End": 6597,
+            "Text": "አስቀድሞ የህክምና ምርመራ ማድረግ ግዴታ ነው ተብሎ አንድ የግል ክሊኒክ ብቻ በመሄድ 500 ብር እየከፈሉ ከጉበትና ከሳንባ በሽታ ነጻ የሆኑበትን ማስረጃ እንዲያመጡ ተደረገ ። ",
+            "SegmentID": "segment-115",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ክሊኒክ",
+                    "start_char": 6530,
+                    "end_char": 6533,
+                    "source_keyword": [
+                        "clinic"
+                    ],
+                    "weight": 1.0
+                },
+                {
+                    "text": "በሽታ",
+                    "start_char": 6567,
+                    "end_char": 6569,
+                    "source_keyword": [
+                        "infection"
+                    ],
+                    "weight": 0.7599971918899999
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001612_20140118_G00202AX2",
+            "Type": "Medical Assistance",
+            "TypeConfidence": 1.0,
+            "Start": 3537,
+            "End": 3596,
+            "Text": "በነፍሰጡሯ ላይ እጅግ አደገኛ የሆኑ የጤና ችግሮችን ሊያስከትሉባት ይችላሉ ” ሲሉ አስረድተዋል ። ",
+            "SegmentID": "segment-105",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "የጤና",
+                    "start_char": 3560,
+                    "end_char": 3562,
+                    "source_keyword": [
+                        "medical"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001630_20151220_G00202BRV",
+            "Type": "Medical Assistance",
+            "TypeConfidence": 1.0,
+            "Start": 407,
+            "End": 491,
+            "Text": "በተለይ በሽብር ሰበብ የታሰሩ የተቃዋሚ ፓርቲ አባላትና አመራሮች ከሚደርስባቸው ድብደባ ባሻገር ህክምና እንደማያገኙም ምንጮች ዘግበዋል ። ",
+            "SegmentID": "segment-4",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ህክምና",
+                    "start_char": 467,
+                    "end_char": 470,
+                    "source_keyword": [
+                        "medical"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "DocumentID": "AMH_WL_001749_20110913_G00202Q16",
+            "Type": "Terrorism",
+            "TypeConfidence": 0.7,
+            "Start": 5012,
+            "End": 5118,
+            "Text": "በመጀሪያ ደረጃ ፣ ወያኔ የሰበሰባቸው ሙትቻ አሻንጉሊቶች በቀላቢ ጌታቸው በመለስ ትዕዛዝ ግንቦት ሰባትን “ አሸባሪ ” ብለው ስለፈረጁት ግንቦት ሰባት አሸባሪ ሊሆን አይችልም ። ",
+            "SegmentID": "segment-108",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "አሸባሪ",
+                    "start_char": 5078,
+                    "end_char": 5081,
+                    "source_keyword": [
+                        "terrorist"
+                    ],
+                    "weight": 0.7
+                },
+                {
+                    "text": "አሸባሪ",
+                    "start_char": 5104,
+                    "end_char": 5107,
+                    "source_keyword": [
+                        "terrorist"
+                    ],
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001565_20150618_G00201Y6S",
+            "Type": "Terrorism",
+            "TypeConfidence": 0.7,
+            "Start": 547,
+            "End": 708,
+            "Text": "በአቃቤ ህግ ክስ ላይ እንደተመለከተው ተከሳሾች ‹‹…. ህገ መንግስቱንና ህገ መንግስታዊ ስርዓቱን በኃይል የማፈራረስ ዓላማ ይዘው …. በሽብር ድርጅት ውስጥ አባል በመሆንና በሽብር ድርጅት ተግባር ላይ ለመሳተፍ በማሰባቸው ….›› የሽብርተኝነት ክስ ቀርቦባቸዋል ። ",
+            "SegmentID": "segment-12",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "በሽብር",
+                    "start_char": 630,
+                    "end_char": 633,
+                    "source_keyword": [
+                        "terrorist"
+                    ],
+                    "weight": 0.7
+                },
+                {
+                    "text": "በሽብር",
+                    "start_char": 654,
+                    "end_char": 657,
+                    "source_keyword": [
+                        "terrorist"
+                    ],
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001571_20121201_G00201YKX",
+            "Type": "Terrorism",
+            "TypeConfidence": 0.7,
+            "Start": 9909,
+            "End": 10035,
+            "Text": "ሰላማዊውን ሙስሊም ሁሉ ” ለምን ተቃውምከኝ ” በሚል ” አሸባሪ ” ብሎ መጥራትና ማሳደድ እነዚህን ዜጎች ” አክራሪ ” ወደሚባለው ጎራ ወይም በዚህ ወደሚከሰሰሱት ሰዎች የሚገፋቸው እንደሚሆን መገመት አይከብድም ። ",
+            "SegmentID": "segment-125",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "አክራሪ",
+                    "start_char": 9973,
+                    "end_char": 9976,
+                    "source_keyword": [
+                        "extremist"
+                    ],
+                    "weight": 0.7
+                },
+                {
+                    "text": "አሸባሪ",
+                    "start_char": 9942,
+                    "end_char": 9945,
+                    "source_keyword": [
+                        "terrorist"
+                    ],
+                    "weight": 0.7
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "DocumentID": "AMH_WL_001630_20151115_G00202C2A",
+            "Type": "Water Supply",
+            "TypeConfidence": 1.0,
+            "Start": 1275,
+            "End": 1388,
+            "Text": "ይሁን እንጂ የኢትዮጵያ መንግስት ድርቁን በራሱ አቅም ብቻ መቋቋም እንደሚችል አድርጐ ማቅረቡ አለማቀፍ ማህበረሰቡ ችግሩን በአፋጣኝ ተረድቶ ልገሣ እንዳያደርግ የሚያዘናጋ ነው ብሏል ። ",
+            "SegmentID": "segment-9",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ድርቁን",
+                    "start_char": 1296,
+                    "end_char": 1299,
+                    "source_keyword": [
+                        "drought"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_NW_000001_20110712_G002006FH",
+            "Type": "Water Supply",
+            "TypeConfidence": 1.0,
+            "Start": 981,
+            "End": 1015,
+            "Text": "በሱማሊያ ያለው ግጭት ድርቁን እንዳባባሰውም ተናግረዋል ። ",
+            "SegmentID": "segment-13",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ድርቁን",
+                    "start_char": 995,
+                    "end_char": 998,
+                    "source_keyword": [
+                        "drought"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001569_20150201_G00200I4R",
+            "Type": "Water Supply",
+            "TypeConfidence": 1.0,
+            "Start": 6580,
+            "End": 6646,
+            "Text": "የራሱ ሰዎች ዘመነ ድርቁን ተገን አድርገው የተቸገሩ ሰዎቻቸውን በወለድና በአራጣ ብድር አስጨንቀው ያዟቸው ። ",
+            "SegmentID": "segment-127",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ድርቁን",
+                    "start_char": 6592,
+                    "end_char": 6595,
+                    "source_keyword": [
+                        "drought"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "DocumentID": "AMH_WL_001612_20140108_G00202APX",
+            "Type": "Crime Unrest",
+            "TypeConfidence": 1.0,
+            "Start": 7811,
+            "End": 7850,
+            "Text": "ሁከት ፈጣሪ ናቸው አስብሎ በፖሊስ አደባባይ ላይ አስደበደባቸው ። ",
+            "SegmentID": "segment-136",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ሁከት",
+                    "start_char": 7811,
+                    "end_char": 7813,
+                    "source_keyword": [
+                        "unrest",
+                        "riot"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001612_20140121_G00202AVA",
+            "Type": "Crime Unrest",
+            "TypeConfidence": 1.0,
+            "Start": 1253,
+            "End": 1376,
+            "Text": "በሰላም የመሰብሰብ ነጻነት ከ2012 ዓ.ም. ጀምሮ ከሀገሪቱ አጠቃላይ ህዝብ ቢያንስ 30 በመቶ የሚሆነውን ቁጥር የሚይዙት የኢትዮጵያ ሙስሊም ማህበረሰብ አባላት ተከታታይ ህዝባዊ ተቃውሞ አድርገዋል ። ",
+            "SegmentID": "segment-9",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ተቃውሞ",
+                    "start_char": 1365,
+                    "end_char": 1368,
+                    "source_keyword": [
+                        "protest"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "DocumentID": "AMH_WL_001630_20151220_G00202BRV",
+            "Type": "Crime Unrest",
+            "TypeConfidence": 1.0,
+            "Start": 0,
+            "End": 56,
+            "Text": "ባህርዳር ከተማ ማረሚያ ቤት የሚገኙ እስረኞች የሚደርስባቸውን በደል በመቃወም ተቃውሞ አሰሙ ",
+            "SegmentID": "segment-0",
+            "Source": "Tian",
+            "Keyword": [
+                {
+                    "text": "ተቃውሞ",
+                    "start_char": 49,
+                    "end_char": 52,
+                    "source_keyword": [
+                        "protest"
+                    ],
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+]
