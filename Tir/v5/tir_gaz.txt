@@ -1,0 +1,448 @@
+ADFE	ሰደግኤን
+AFP	AFP
+Abdul Aziz al-Rantissi	ኣብዱል ዓዚዝ ኣል - ራንቲዚ
+Abe	ዓቤ
+Addi Caieh	ዓዲ ቐይሕ
+Addi Qeyh	ዓዲ ቐይሕ
+Addis Ababa	ኣዲስ ኣበባ
+Adi Caie	ዓዲ ቐይሕ
+Adi Ciah	ዓዲ ቐይሕ
+Adi Kaie	ዓዲ ቐይሕ
+Adi Keih	ዓዲ ቐይሕ
+Adi Keyh	ዓዲ ቐይሕ
+Adi Keyih	ዓዲ ቐይሕ
+Adi Quala	ዓዲ ዃላ
+Ado Ugri	መንደፈራ
+Aegean Sea	ኤጅያዊ ባሕርን
+Afghanistan	ኣፍጋኒስታን
+Africa	ኣፍሪቃ
+African Union	ሕብረት ኣፍሪካ
+African Union	ኣፍሪቃዊ ሕብረት
+Afwerki Isaias	ኢሰያስ
+Agence France-Presse	AFP
+Agordat	ኣቆርዳት
+Ak'ordat	ኣቆርዳት
+Akordat	ኣቆርዳት
+Aksum	ኣክሱም
+Al Jazeera	ኣልጀዚራ
+Al-Azhar Islamic University	ኣል ዛሃር ኢስላሚክ ዩኒቨርስቲ
+Al-Shabaab	ኣልሸባብ
+Al-Shabab	ኣልሸባብ
+Al-Sheikh	ኣል ሸይቕ
+Allan Gotlieb	ኣላን ጎትሊያብ
+Amazon	ኣማዞን
+Amazonia	አማዞናዊያ
+America	ኣሜሪካ
+American University	አሜሪካን ዩኒቨርስቲ
+Amharic	ኣምሓረኛ ፊደል
+Amman	ኣማን
+Amnesty International	ኣምነስቲ ኢንተርናሽናል
+Amsterdam	ኣምስተርዳም
+Andrea Mitchell	ኣንድራ ሚቼል
+Anseba Region	ዓንሰባ
+Anseba Region	ዞባ ዓንሰባ
+Anseba River	ኣንሰባ
+Antarctica	ኣንታርክቲካ
+Arab University of Beirut	ኣዕራብ ዩኒቨርስቲን ናይ ቤይሩት
+Arafat	ዓረፋት
+Areza	ዓረዛ
+Ariel Sharon	ኤሪያል ሻሮን
+Aseb	ዓሰብ
+Asia	ኤስያ
+Asmara	ኣስመራ
+Assab	ዓሰብ
+Assab	ዓሰብ
+Associated Press	ኣሶሼትድ ፕረስ
+Atlantic	ኣትላንቲክ
+Baghdad	ባቕዳድ
+Bangladesh	ባንግላዴሽ
+Bani Walid	በኒ ወሊድ
+Barack Obama	በራክ ኦባማ
+Barcelona	ባርሴሎና
+Beijing	ቤይጂንግ
+Beit Hanoun	ቤት ሃኑን
+Bekele Gerba	በቀለ ገርባ
+Belgium	በልጁም
+Bernard Aronson	በርናርድ አሮንሰን
+Bill Clinton	ክሊንተን
+Bombay	ቦምቤ
+Brazil	ብራዚል
+Brian Mulroney	ብሪያን ሙልሮላይ
+Britain	ብሪጣንያ
+British Red Cross	ቀይሕ መስቀል እንግሊዝ
+Budapest	ቡዳፔሽት
+Burundi	ቡሩንዲ
+Burundi	ቡሩንዲን
+Cairo	ካይሮ
+Calais	ካሌ
+California	ካሊፎርንያ
+Cambodia	ካምቦዲያ
+Camp David	ካምፕ ዴቪድ
+Campaign of Warsay - Yikalo	ወፍሪ ዋርሳይ ይከኣሎ
+Canada	ካናዳ
+Carter	ካርተር
+Center Denkalia	ማእከል ደንካልያ
+Central	ማእከል
+Central	ዞባ ማእከል
+Central America	ማእኸላይ ኣሜሪካ
+Central Denkalia	ማእከል ደንካልያ
+Central Intelligence Agency	ሴንትራል ኢንተለጀንስ ኤጀንሲ
+Central Region	ማእከል
+Central Region	ዞባ ማእከል
+Central Zone	ማእከል
+Central Zone	ዞባ ማእከል
+China	ቻይና
+Christian	ክርስቲያናዊ
+Ciba-Geigy Corporation	ሲባ - ጄይጊይ ኮርፖሬሽን
+Cincinnati	ሲንሲናቲ
+Colin Powell	ኮሊን ፓውል
+Contra	ኮንትራ
+Corazon Aquino	ኮራዞን ኣኩይኖ
+Costa Rica	ኮስታሪካ
+Cuba	ኩባ
+DC	ዋሺንግቶን
+DC	ዋሽንግተን
+DC	ዋሽንግቶን
+DMHT	ዴምህት
+Dahlak Archipelago	ዳህላክ
+Damascus	ደማስቓስ
+Danish People	ደንማርካዊ
+Debarwa	ድባርዋ
+Debub	ዞባ ደቡብ
+Debub	ደቡብ
+Debub Region	ዞባ ደቡብ
+Debub Region	ደቡብ
+Decamare	ደቀምሓረ
+Defense Force	ሓይልታት ምክልኻል
+Deir al-Balah	ዴር ኣልባለህ
+Dekemhare	ደቀምሓረ
+Djibouti	ጂቡቲ
+Doctors without Borders	ሓካይም ብዘይዶብ
+Doctors without Borders	ኤም ኤስ ኤፍ
+Donald Rumsfeld	ዶናልድ ራምስፊልድ
+Donald Tusk	ዶናልድ ታስክ
+EDFL	ደግሓኤ
+ELF	ተሓኤ
+ELF Revolutionary Council	ተሓኤ ሰውራዊ ባይቶ
+EU	ሕብረት ኣውሮጳን
+EU	ሕብረት ኤውሮጳን
+EU	ኤውሮጳዊ ሕብረት
+Ehud Barak	ኣይሁድ ባራክ
+Elliott Abrams	ኢሊየት አብራምስ
+Emile Lahoud	ኢሚሌ ላሁድ
+Eritrea	ኤርትራ
+Eritrean Defence Forces	ሓይልታት ምክልኻል
+Eritrean Liberation Front	ተሓኤ
+Ethiopia	ኢትዮጵያ
+Europe	ኣውሮጳ
+Europe	ኣውሮጳ
+Europe	ኤውሮጳ
+European Parliament	ፓርላማ ኤውሮጳዊ ሕብረት
+European Union	ሕብረት ኣውሮጳን
+European Union	ሕብረት ኤውሮጳን
+European Union	ኤውሮጳዊ ሕብረት
+FAA	ኤፍኤኤ
+FSA	ፋይናንሳዊ ግልጋሎት
+Fatah	ፋታሕ
+Federal Aviation Administration	ምምህዳር ፌደራል አቪየሽን
+Financial Services Authority	ፋይናንሳዊ ግልጋሎት
+Florence	ፍሎረንስ
+Florida	ፍሎሪዳ
+Food and Drug Administration	ሞምሕዳር ምግቢን መድሃኒትን
+Fort Hood	ፎርትሁድ
+Forto	ፎርቶ
+France	ፈረንሳ
+Gambela Region	ጋምቤላ
+Gash-Barka	ዞባ ጋሽ ባርካ
+Gash-Barka	ጋሽ ባርካ
+Gash-Barka	ጋሽ-ባርካ
+Gash-Barka Region	ዞባ ጋሽ ባርካ
+Gash-Barka Region	ጋሽ ባርካ
+Gash-Barka Region	ጋሽ-ባርካ
+Gaza	ቃዛ
+Gaza City	ከተማ ጋዛ
+Gaza Strip	ወሽመጥ ቃዛ
+Gebru	ገብሩ
+General Mills	ጄኔራል ሚልሥ
+George H. W. Bush	ቡሽ
+George Mitchell	ጆርጅ ሚሽል
+George W. Bush	ጆርጅ ደብሊው ቡሽ
+Georgetown University	ጆርጅታውን ዩኒቨርስቲ
+Germany	ጀርመን
+Germany	ግርማይ
+Gordon Brown	ጎርደን ብራውን
+Government Communication Affairs Office	መግቢያ
+Greece	ግሪኽን
+Greenland	ግሪንላንድን
+Grenada	ግሪንዳድ
+Guest House	ገስት ሃውስ
+Haifa	ሀይፋ
+Hailemariam Desalegn	ኃይለማሪያም ደሳለኝ
+Hamas	ሃማስ
+Hamasien	ሓማሴን
+Harvard Medical School	ሐርቫርድ ህክምና ቤት ትምህርት
+Harwich	ሃርዊች
+Hebron	ሔብሮን
+Holland	ሆላንድ
+Honduras	ሐን ዱራስ
+Horn of Africa	ቀርኒ ኣፍሪቃ
+Hull	ሃል
+Humora	ከተማ ሑመራ
+Hungary	ሃንጋሪ
+IGAD	ኢጋድ
+ISIS	ዳዒሽ
+Idi	ዕዲ
+India	ህንዲ
+Indians of the Andes	ህንዳዊያን አንደስ
+International Organization for Migration	ኣህጉራዊ ማሕበር ስደተኛታት
+International Organization for Migration	ኣህጉራዊ ውድብ ጉዳይ ስደተኛታት
+International Red Cross	ኣህጕራዊ ቀይሕ መስቀል
+International Red Cross Society	ኣህጉራዊ ማሕበር ቀይሕ መስቀል
+Iowa	አዮዋ
+Iraq	ኢራቕ
+Isaias Afwerki	ኢሳያስ ኣፈወርቂ
+Isaias Afwerki	ኢሳይያስ ኣፈወርቂ
+Islamic Jihad	እስላማዊ ጀሃድ
+Islamic State	ዳዒሽ
+Israel	እስራኤል
+Italy	ልያንን
+Jabaliya	ጃባሊያ
+James Baker	ጀምስ ቤከር
+Japan	ጃፓን
+Jerusalem	እየሩሳሌም
+Jijiga	ጅጅጋ
+Jordan	ጆርዳን
+Joseph Muscat	ጆዘፍ ሙስካት
+Kafr al-Sheikh	ካፍር ኢል ሼይክህ
+Kenya	ኬንያ
+Keren	ከረን
+Kfar Darom	ክፈር ዳሮም
+Khan Yunis	ካሃንዩኒስ
+Khoms	ኹምስ
+Kiros	ኪሮስ
+Kuwait	ኩዌት
+Lakshmipura	ላኪሽሚፑራ
+Larry Birns	ላሪ ቢርንሥ
+Lebanon	ሊባኖስ
+Libya	ሊብያ
+Lisbon	ሊዝበን
+London	ለንደን
+London	ሎንደን
+London	ሎንዶን
+London School of Economics	ለንደን ስኩል ኦፍ ኢኮኖሚክስ
+Los Angeles	ሎስኣንጀለስ
+MSF	ሓካይም ብዘይዶብ
+MSF	ኤም ኤስ ኤፍ
+Ma'ekel	ማእከል
+Ma'ekel	ዞባ ማእከል
+Ma'ekel Region	ማእከል
+Ma'ekel Region	ዞባ ማእከል
+Maakel	ማእከል
+Maakel	ዞባ ማእከል
+Maakel Region	ማእከል
+Maakel Region	ዞባ ማእከል
+Maekel	ማእከል
+Maekel	ዞባ ማእከል
+Mahatma	ማህታማ
+Mai Temenay	ማይ ተመናይ
+Mai-Dima	ማይድማ
+Mai-Habar	ማይሓባር
+Maine	ማይኔ
+Malibu	ማሊቡ
+Malta	ማልታ
+Mario Vargas Llosa	ማሪዮ ቫርጋስ ልሎሳ
+Massawa	ምጽዋዕ
+Mediterranean Sea	ማእከላይ ባሕሪ
+Meles Zenawi	መለስ ዚናዊ
+Meles Zenawi	መለስ ዜናዊ
+Meles Zenawi Asres	መለስ ዜናዊ አስረስ
+Mendefera	መንደፈራ
+Mengistu Haile Mariam	መንግስቱ ኃይለ ማርያም
+Mengistu Haile Mariam	ኃይለ ማርያም
+Middle East	ማእከላይ ምብራቕ
+Milan	ሚላኖ
+Minnesota	ሚኒሦታ
+Mississippi	ሚሲሲፒ
+Mogadishu	ሞቓዲሾ
+Mohandas Gandhi	ሞሀንዳሥ ገንዲ
+Morocco	ሞሮኮ
+Mubarak	ሙባረክ
+Mumbai	ቦምቤ
+Médecins Sans Frontières	ሓካይም ብዘይዶብ
+Médecins Sans Frontières	ኤም ኤስ ኤፍ
+NBC Television	ኤን ቢሲ ቴሌቪቭን
+NUEYS	ሃ . ማ . መ . ተ . ኤ .
+Naizgi Kiflu	ናይዝጊ ክፍሉ
+Nakfa	ናቕፋ
+Namib	ናሚብ
+Namibia	ናሚቢያ
+National Alliance of Eritrea	ሃገራዊ ምሕዝነት ኤርትራ
+National Public Radio	ናሽናል ፓብሊክ ሬድዮ
+National Union of Eritrean Youth and Students	ሃ . ማ . መ . ተ . ኤ .
+Netherlands	ሆላንድን
+Netzarim	ናዛሪም
+Nevada	ኔቭዳ
+New Delhi	ኒው ደልሂ
+New York	ኒው ዮርክ
+New York	ኒውዮርክ
+Newcastle	ኒውካስል
+Nicaragua	ኒካራጓ
+Nigeria	ናይጀርያ
+No Peace without Justice	ብዘይ ፍትሒ ሰላም የለን
+North America	ሰሜን ኣሜሪካን
+Northern Red Sea Region	ዞባ ሰሜናዊ ቀይሕ ባሕሪ
+Office of Gas and Electricity Markets	ዕዳጋ ጋዝን ኤሌክትሪክን
+Oranjemund	ኦራንጀሙንድ
+Osaka	ኣሳካ
+Oslo	ኦስሎ
+PDFL	ህደግሓኤ
+PDFLE	ህደግሓኤ
+PFDJ	ህግደፍ
+Pace University School of Law	ፔስ ዩኒቨርስቲ ቤት ትምህርት ሕጊ
+Pacific Ocean	ሰላማዊ ውቅያኖስ
+Pakistan	ፓኪሥታን
+Palestinian Authority	ሰበ ስልጣን ፍልስጤም
+Palestinian people	ፍሊስጤማዊያን
+Panama	ፓናማ
+Paris	ፓሪስ
+Pennsylvania	ፔንስልቫንያ
+Pentagon	ፔንታጎን
+People's Front	ህ . ግ .
+Peru	ፔሩ
+Philippines	ፊሊፒንስ
+Priti Patel	ፕሪቲ ፓተል
+Procter & Gamble India Ltd.	ፕሮክቴርን ጋምበል ኢንዲያ ሊትድ
+Quezon City	ከተማ ኩዞን
+Rafah	ራፋሕ
+Ramallah	ራማላህ
+Red Crescent	ቀይሕ ወርሒ
+Red Cross	ቀይሕ መስቀል
+Republican	ሪፐብሊካን
+Rio de Janeiro	ሪሆ ቴ ተኔሂሮ
+Robert Dole	ሮበርት ደል
+Rosa Parks	ሮዛ ፓርክስ
+Rotterdam	ሮተርዳም
+Russia	ሩስያዊያ
+Russia	ራስያ
+Rwanda	ሩዋንዳ, ርዋንዳ
+Sabratha	ሳብራታ
+Sacramento	ሳክራመንቶ
+Saddam Hussein	ሳዳም ሁሴን
+Sagm	ሳግም
+Sagm	ሳግምን
+Sahara	ሳሃራ
+San Jose	ሣንጆሴ
+Sana'a	የመን
+Sandinistas	ሳንዲስታታት
+Saud al-Faisal	ሳውድ ኣል - ፋይሳል
+Saudi Arabia	ሰዑዲ ዓረብ
+Saudi Arabia	ሳውዲ ዓረቢያ
+Sawa	ሳዋ
+Seattle	ስያትል
+Senafe	ሰንዓፈ
+Serae	ሰራየ
+Seraye	ሰራየ
+Serbia	ሰርቢያ
+Shimon Peres	ሽምን ፔሬዝ
+Shira	ከተማ ሽረ
+Sicily	ሲቺልያ
+Sidhpur	ሲድህፑር
+Sidon	ሲዶን
+Sinai Desert	ሲናይ
+Sioux City	ከተማ ሲኦክስ
+Somalia	ሶማሊያ
+Somalia	ሶማል
+South Africa	ደቡባዊ አፍሪካ
+South Africa	ደቡብ ኣፍሪቃ
+Southern Red Sea Region	ዞባ ደቡባዊ ቀይሕ ባሕሪ
+Southern Region	ዞባ ደቡብ
+Southern Region	ደቡብ
+Spain	ስጳኛን
+Spain	ስጳኛን
+Spain	ስጳኝ
+Strait of Sicily	መጻብቦ ሲቺልያ
+Strasbourg	ስትራስቦርግ
+Sudan	ሱዳን
+Sweden	ስዊድን
+Syria	ሶርያ
+Tahrir Square	ታህሪር ስክዌር
+Tajoura	ታጁራ
+Tanta	ታንታ
+Tanzania	ታንዛንያ
+Tel Aviv	ቴልአቪቭ
+Teseney	ተሰነይ
+Tessenei	ተሰነይ
+Tesseney	ተሰነይ
+Texas	ቴክሳስ
+Theresa May	ቴሬዛ መይ
+Thomas de Maiziere	ቶማስ ደ መይዚራ
+Tibet	ትቤት
+Tigrayans	ተጋሩ
+Tigrigna	ትግርኛ
+Tigrinya	ትግርኛ
+Tony Blair	ቶኒ ብሌየር
+Toronto	ቶሮንቶ
+Tripoli	ትሪፖሊ
+Tunisia	ቱኒዢያ
+Turkey	ቱርኪን
+UK	መንግስቲ እንግሊዝ
+UN	ሕቡራት ሃገራት
+UN	ዩኤን
+UNICEF	ጸብጻብ ዩኒሴፍ
+US	ሕ . መ . ኣ .
+US	ዩ ኤስ
+US	ዩነይትድ ስቴትስ
+US	ዩናይትድ ሥቴትሥ
+USA	ሕ . መ . ኣ .
+USA	ዩነይትድ ስቴትስ
+USA	ዩናይትድ ሥቴትሥ
+USS	ዩ . ኤስ . ኤስ.
+Ubel	ዑበል
+Uganda	ኡጋንዳ
+United Airlines	ዩናይትድ ኤርላይንስ
+United Kingdom	መንግስቲ እንግሊዝ
+United Nations	ሕቡራት ሃገራት
+United Nations	ዩኤን
+United Nations Children's Fund	ጸብጻብ ዩኒሴፍ
+United States	ሕ . መ . ኣ .
+United States	ዩነይትድ ስቴትስ
+United States	ዩናይትድ ሥቴትሥ
+United States Army	ሰራዊት ኣሜሪካ
+United States Senate	ሴኔት
+United States of America	ሕ . መ . ኣ .
+United States of America	ዩነይትድ ስቴትስ
+United States of America	ዩናይትድ ሥቴትሥ
+University of London	ዩኒቨርስቲ ለንደን
+University of San Marcos, Lima	ሳን ማርቆስ ሊማ ዩኒቨርስቲ
+Ushuaia	ኡሽዋያ
+VOA	ሬድዮ ድምፂ ኣሜሪካ
+VOA	ቪኦኤ
+Valetta	ቫሌታ
+Vietnam	ቬትናም
+Viktor Orbàn	ቪክቶር ኦርባን
+Voice of America	ሬድዮ ድምፂ ኣሜሪካ
+Voice of America	ቪኦኤ
+WWY	ወፍሪ ዋርሳይ ይከኣሎ
+Warsay Yika'alo Program	ወፍሪ ዋርሳይ ይከኣሎ
+Washington	ዋሽንግተን
+Washington DC	ዋሺንግቶን
+Washington DC	ዋሽንግተን
+Washington DC	ዋሽንግቶን
+Washington, D.C.	ዋሺንግቶን
+Washington, D.C.	ዋሽንግተን
+Washington, D.C.	ዋሽንግቶን
+Wefri Warsay Yika'alo	ወፍሪ ዋርሳይ ይከኣሎ
+Welkait	ወልቃይት
+West Bank	ዌስት ባንክ
+Western Balkans	ምዕራባውያን ሃገራት ባልካን
+Western Hemisphere	ምዕራብ ሄሚሶፊር
+White House	ኋይት ሃውስ
+World Trade Center	ዓለም ንግዲ ማዕከል
+Yasser	ያሲን
+Yasser Arafat	ያሲን ዓራፋት
+Yemen	የመን
+Youth Association	ሃ . ማ . መ . ተ . ኤ .
+Zanzibar	ዛንዚባር
+Zawiya	ዛዊያ
+al Shabaab	ኣልሸባብ
+al Shabab	ኣልሸባብ

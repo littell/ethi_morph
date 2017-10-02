@@ -1,0 +1,6 @@
+Each folder in this directory is a different version of the morphology parser for Oromo.
+
+Within each folder, there are two different parsers. The first, called orm_morph.py, is for morphological parsing of standard Oromo text. The second, called orm_morph_norm.py, is for morphological parsing of Oromo text that has been normalized (e.g., by making all vowels short), to account for spelling variations.
+
+For both files, they should be used by importing the desired file as a library and calling the function parse(string, channel_name), where string is a string to be parsed and channel_name describes the desired type of output: "gloss" for the gloss, "breakdown" for a morphological breakdown, "lemma" for the lemma, "natural" for a more natural-sounding gloss.
+

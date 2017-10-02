@@ -1,0 +1,78 @@
+Africa	ኣፍሪቃ
+African Union	ኣፍሪቃዊ ሕብረት
+Aegean Sea	ኤጅያዊ ባሕርን
+Amharic (language)	ኣምሓረኛ ፊደል
+Amsterdam	ኣምስተርዳም
+Assab	ዓሰብ
+Associated Press	ኣሶሼትድ ፕረስ
+Bangladesh	ባንግላዴሽ
+Bani Walid	በኒ ወሊድ
+Belgium	በልጁም
+Britain	ብሪጣንያ
+British Red Cross	ቀይሕ መስቀል እንግሊዝ
+Budapest	ቡዳፔሽት
+Calais	ካሌ
+Djibouti	ጂቡቲ
+Donald Tusk	ዶናልድ ታስክ
+Eritrea	ኤርትራ
+Ethiopia	ኢትዮጵያ
+Europe	ኣውሮጳ
+Europe	ኤውሮጳ
+European Parliament	ፓርላማ ኤውሮጳዊ ሕብረት
+European Union	ኤውሮጳዊ ሕብረት
+EU	ኤውሮጳዊ ሕብረት
+France	ፈረንሳ
+Gaza	ቃዛን
+Germany	ጀርመን
+Greece	ግሪኽን
+Harwich	ሃርዊች
+Horn of Africa	ቀርኒ ኣፍሪቃ
+Hull	ሃል
+Hungary	ሃንጋሪ
+IGAD	ኢጋድ
+International Organization for Migration	ኣህጉራዊ ማሕበር ስደተኛታት
+Islamic State	ዳዒሽ
+ISIS	ዳዒሽ
+Israeli (people)	እስራኤል
+Italy	ልያንን
+Joseph Muscat	ጆዘፍ ሙስካት
+Kenya	ኬንያ
+Khoms	ኹምስ
+Libya	ሊብያ
+Malta	ማልታ
+Massawa	ምጽዋዕ
+Mediterranean Sea	ማእከላይ ባሕሪ
+Middle East	ማእከላይ ምብራቕ
+Milan	ሚላኖ
+Netherlands	ሆላንድን
+Newcastle	ኒውካስል
+North America	ሰሜን ኣሜሪካን
+Palestinian (people)	ፍሊስጤማዊያን
+Red Crescent	ቀይሕ ወርሒ
+Rio de Janeiro	ሪሆ ቴ ተኔሂሮ
+Rotterdam	ሮተርዳም
+Sahara	ሳሃራ
+Serbia	ሰርቢያ
+Sicily	ሲቺልያ
+Spain	ስጳኛን
+Spain	ስጳኛን
+Somalia	ሶማሊያ
+Straight of Sicily	መጻብቦ ሲቺልያ
+Strasbourg	ስትራስቦርግ
+Sudan	ሱዳን
+Tajoura	ታጁራ
+Thomas de Maiziere	ቶማስ ደ መይዚራ
+Tigrayans (people)	ተጋሩ
+Tigrinya	ትግርኛ
+Tigrigna	ትግርኛ
+Tripoli	ትሪፖሊ
+Tunisia	ቱኒዢያ
+Turkey	ቱርኪን
+Uganda	ኡጋንዳ
+UNICEF	ጸብጻብ ዩኒሴፍ
+United Kingdom	መንግስቲ እንግሊዝ
+UK	መንግስቲ እንግሊዝ
+Valetta	ቫሌታ
+Viktor Orbàn	ቪክቶር ኦርባን
+West Bank	ዌስት ባንክ
+Zawiya	ዛዊያ

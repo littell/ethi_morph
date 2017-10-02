@@ -1,0 +1,4 @@
+Pushing new version out to annotation viwer:
+
+/home/pwl/viewer/data_server_natural.py tir /usr2/data/shared/LoReHLT17/internal/Morph/Tir/v3/tir_morph_NARAE.py --db_port 27015 --port 5551
+

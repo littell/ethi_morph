@@ -1,0 +1,438 @@
+Tokyo	ቶኪዮ
+parliament	ፓርላማ
+children	ሰገናት
+report (v)	ሓቢሩ
+report	ሓቢሩ
+Mark	ማርክ
+video games	ቪድዮ ምርኢት
+parental supervision	ወለዲ ቁፅፅር
+too much	ብጣዕሚ ብዙሕ
+job	ሰራሕ
+ABC	ኤ . ቢ . ሲ .
+daily	ዕለታዊ
+counselor	ኣማኻሪ
+sociologists	ሶሾሎጂስት
+television	ቴሌቭዢን
+women	ኣዋላድ
+three	ስለስተ
+famous	ፍሉጥ
+news	ዜና ማዕኸን
+regiment	ሬጅመንት
+mortar	ሞርታር
+Tibet	ትቤት
+China	ቻይና
+Asia	ኤስያ
+mister	ሚስተር
+carbon dioxide	ካርቦንዳይኦክሣድ
+Dunde	ዱንዴ
+Greenland	ግሪንላንድን
+Antarctica	ኣንታርክቲካ
+Philippine	ፊሊፒናውያን
+Filipino	ፍሊፒናውያ
+Philippines	ፊሊፒንስ
+America	ኣሜሪካ
+Canada	ካናዳ
+Washington	ዋሽንግተን
+Canadian	ካናዳውያን
+Grenada	ግሪንዳድ
+Cuba	ኩባ
+Nicaragua	ኒካራጓ
+U.S.	ዩኤስ
+OAS	አኤኤስ
+Canadian	ካዳዊያን
+San Jose	ሣንጆሴ
+Costa Rica	ኮስታሪካ
+Toronto	ቶሮንቶ
+U.N.	ዩኤን
+France	ፈረንሣይ
+Britain	ንብሪታኒያ
+Washington	ዋሽንግጸን
+Panama	ፓናማ
+Atlantic	ኣትላንቲክ
+Malibu	ማሊቡ
+Oranjemund	ኦራንጀሙንድ
+Namibia	ናሚቢያ
+London	ለንደንን
+George	ጆርጅ
+Mississippi	ሚሲሲፒ
+New York	ኒውዮርክን
+Pennsylvania	ፔንስልቫንያ
+Beijing	ቤይጂንግ
+Israel	እስራኤል
+Haifa	ሀይፋ
+strip	ወሽመጥ
+Gaza	ጋዛ
+Jabaliya	ጃባሊያ
+Iraq	ኢራቕ
+West	ዌስት
+Bank	ባንክ
+Herbron	ሔብሮን
+Hebron	ሔብሮን
+center	ማዕከል
+Jihad	ጀሃድ
+Palestinian Authority	ሰበ ስልጣን ፍልስጤም
+Tel Aviv	ቴልአቪቭ
+George W. Bush	ጆርጅ ደብሊው ቡሽ
+Bush	ቡሽ
+White House	ዋይት ሃውስ
+Europe	ኤውሮፓ
+European Union	ኤውሮፓ ሕብረት
+Egypt	ግብጺ
+Lebanon	ሊባኖስ
+Amman	ኣማን
+Damascus	ደማስቓስ
+gulf	ጋልፍ
+Cairo	ካይሮ
+Spain	ስፔይን
+Alexandria	ኣሌክሳንደርያ
+Tanta	ታንታ
+Dr.	ዶ/ር
+report	ሪፖርት
+Hindi	ህንዲ
+Africa	አፍሪቃ
+DC	ዲሲ
+N	ኔሪንዳ
+Narendra Modi	ኔሪንዳ
+Narendra	ኔሪንዳ
+Modi	ሙዲ
+Narendra Modi	ኔሪንዳ ሙዲ
+electrical	ብኤለክትሪክ
+underwater	ብትሕቲ ባሕሪ
+undersea	ብትሕቲ ባሕሪ
+sea	ባሕሪ
+euro	ዩሮ
+estimates	ግምታት
+electric	ኤለክትሪክ
+Addis	አዲስ
+Ababa	አበባ
+Addis Ababa	አዲስ አበባ
+Botswana	ቦትስዋና
+president	ፕሬዝዳንት
+South Sudan	ደቡብ ሱዳን
+United	ዩናይትድ
+States	ስቴተስ
+United States	ዩናይትድ ስቴተስ
+peace treaty	ውዕል ሰላም
+ambassador	ኣምባሳደር
+minister	ሚንስትሪ
+States	ስቴትስ
+comm	ኮምሽን
+commission	ኮምሽን
+Botswana	ቦስትዋና
+Congo	ኮንጎ
+republic	ሪፕባሊክ
+Dennis	ደኒስ
+Sassou	ሳሶው
+Nguesso	ንጎሶ
+Dennis Sassou Nguesso	ደኒስ ሳሶው ንጎሶ
+referendum	ረፈረንደም
+president	ፕረዝደንት
+Pascal	ፓስካል
+
+Republic of Congo	ሪፕባሊክ ኮንጎ
+Republic of the Congo	ሪፕባሊክ ኮንጎ
+UNICEF	ዩኒሰፍ
+Salih	ሳልሕ
+Saleh	ሳልሕ
+Ahmedin	ኣሕመዲን
+treaty	ውዕል
+minister	ሚንስትር
+investment	ኢንቨስትመንትን
+Iraq	ዒራቕ
+British	እንግሊዝ
+US	ኣሜሪካ
+Pentagon	ፔንታጎን
+Turkey	ቱርክ
+Mediterranean	ሜዲትራኒያን
+Kuwait	ኩዌት
+Post	ፓስት
+Baghdad	ባቕዳድ
+Bush	ቡሽ
+Central Intelligence Agency	ሴንትራል ኢንተለጀንስ ኤጀንሲን
+Pentagon	ፔንታጎንን
+Rumsfeld	ራምስፊልድ
+Blair	ብሌየር
+Camp David	ካምፕ ዴቪድ
+Saddam	ሳዳም
+Washington	ዋሽንግተን
+United Nations	ሕቡራት ሃገራት
+Russia	ራስያ
+Britain	ንብሪታንያ
+Osaka	ኣሳካ
+Japan	ጃፓን
+Kyodo	ክዮዶ
+Yomiuri	ዮሚዩሪ
+McCarthy	ማካርቲ
+Brown	ብራውን
+US	ዩ-ስ
+telephone	ቴሌፎን
+with mobile	ብሞባይል
+ambassador	ኣምባሳዶር
+politician	ፖሊቲካዊ
+policy	ፖሊሲ
+artist	ኣርቲስት
+hip hop	ሂፕ ሃፕ
+prime	ቀዳማይ
+minister	ምንስትር
+Meles	መለስ
+Meles Zenawi	መለስ ዜናዊ
+rights	ራይት
+Ethiopia	ኢትዮዽያ
+vote	ምርጫ
+election	ምርጫ
+Addis Ababa	ኣዲስ ኣበባ
+Congress	ቤት ምኽሪ
+congress	ቤት ምኽሪ
+congress	ቤት-ምኽሪ
+Europe	ኤውሮጳን
+America	ኣመሪካን
+congress	ኮንግረስ
+Oromo	ኦሮሞ
+Michelle	ሚሸል
+first	ቀዳማዊት
+lady	እመቤት
+First Lady	ቀዳማዊት እመቤት
+Obama	ኦባማ
+American First Lady Michelle Obama	ኣሜሪካ ቀዳማዊት እመቤት ሚሸል ኦባማ
+#4# American First Lady Michelle Obama was invited to address African youth about guiding youth to a better future	ናይ ኣሜሪካ ቀዳማዊት እመቤት ሚሸል ኦባማ መንእሰያት ኣፍሪቃ ብፍላይ ደቀንስትዮ መንእሰያት ንዝሓሸ መፃኢ ናይ መሪሕነት ቦታ ንኽሕዙ ዝፀወዐ ኣነቃቃቅሒ መደረ ኣስሚዔን
+Ms.	ሚስ
+women	ኣዋልድ
+labor	ስራሕ
+labor unions	ስራሕ ማሕበራት
+labor union	ሕብረት ስራሕ
+condominium	ኮንደሚንየም
+which his job	ዝስርሑ
+which was	ዝነበረ
+peaceful	ሰላማዊ
+E.C.	ዓ.ም
+New York	ኒዮርክ
+politician	ፖሎቲካዊ
+Horn of Africa	ቀርኒ አፍሪቃ
+Voice of America	ሬድዮ ድምፂ ኣሜሪካ
+voice	ድምፂ
+radio	ሬድዮ
+Mr.	አቶ
+Ethiopian embassy	ኤምባሲ ኢትዮጵያ
+Eritrean state	መንግስቲ ኤርትራ
+Somali	ሶማል
+international	ኢንተርናሽናል
+Amnesty International	ኣምነስቲ ኢንተርናሽናል
+amnesty	ኣምነስቲ
+Amnesty International	ኣምስቲ ኢንተርናሽናል
+amnesty	ኣምንሰቲ
+Amnesty International	ኣምንሰቲ ኢንተርናሽናል
+mobile	ሞባይል
+mobile phone	ሞባይል ስልኪ
+amnesty	ኣምስቲ
+Al-Shabaab	ኣልሸባብ
+Somalia	ሶማል
+humanitarian assistance	ሰብኣዊ ረድኤትን
+aid	ረድኤትን
+Somalis	ሶማሊያዊያን
+girl	ኣንስተይቲ ቆልዓ
+which did	ዝሰርሓ
+Benadict	በነዲክት
+for VOA	ንቪኦኤ
+federal	ፌደራላዊ
+Horn of Africa	ቀርኒ ኣፍሪካ
+Africa	ኣፍሪካ
+Chatham	ቻትሃም
+Chatham House	ጉጅለ ቻትሃም
+Roger	ሮጀር
+Middleton	ሚድልተን
+Roger Middleton	ሮጀር ሚድልተን
+African Union	ሕብረት ኣፍሪካ
+Somalia	ሱማሊያ
+Somalis	ሱማሊያዊያን
+international	እንተርናሽል
+Amnesty International	ኣምስቲ እንተርናሽል
+Nations	ሃገራት
+Europe	ኤውሮጳ
+Spain	ስጳኛ
+Doctors without Borders	ብሓካይም ብዘይዶብ
+Médecins Sans Frontières	ብሓካይም ብዘይዶብ
+MSF	ኤም ኤስ ኤፍ
+Médecins Sans Frontières	ኤም ኤስ ኤፍ
+sexual	ጾታዊ
+Balkan	ባልካን
+European	ኤውሮጳዊ
+month	ኣዋርሕ
+Tunisian	ቱኒዝያን
+Donald	ዶናልድ
+Tusk	ታስክ
+Donald Tusk	ዶናልድ ታስክ
+Joseph	ጆሰፍ
+Muscat	ሙስካት
+prime minister	ቀዳማይ ሚኒስተር
+Shimon	ሽምን
+Peres	ፔሬዝ
+Yasser	ያሲን
+Arafat	ዓራፋት
+Ramallah	ራማላህ
+Fatah	ፋታሕ
+Palestinian	ፍሊስጤም
+doctors	ብሓካይም
+without borders	ብዘይዶብ
+America	ኣመሪካ
+Eritrean	ኤርትርውያን
+Seattle	ስያትል
+Jerusalem	እየሩሳሌም
+football	ኩዕሶ እግሪ
+soccer	ኩዕሶ እግሪ
+camera	ካሜራ
+Rwanda	ሩዋንዳን
+Burundi	ቡሩንዲን
+protocol	ፕሮቶኮል
+Djibouti	ጅቡትን
+president	ፕረዚደንት
+Isai	ኢሳያስ ኣፈወርቂ
+Isaias Afwerki	ኢሳያስ ኣፈወርቂ
+Asmera	ኣስመራ
+Uganda	ኡጋንዳዊት
+Kampala	ካምፓላ
+city	ኸተማ
+referendum	ረፈርደም
+European Union	ሕብረት ኤውሮጳን
+London	ሎንዶን
+democratic	ዲሞክራሲያዊ
+Moga	ሞቓዲሾ
+Mogadishu	ሞቓዲሾ
+football	ፉትቦል
+soccer	ፉትቦል
+Holand	ሆላንድ
+Spain	ስጳኝ
+conference	ኮንፈረንስ
+South Africa	ደቡብ ኣፍሪቃ
+South Africa	ደቡብ ኣፍርቃን
+President	ፕረዚደንት
+Barack Obama	በራክ ኦባማ
+festival	ፌስቲቫል
+London	ሎንደን
+Sweeden	ስዊድን
+Sweden	ስዊድን
+Washington	ንዋሽንግቶን
+Georgetown University	ጆርጅታውን ዩኒቨርስቲ
+Horn of Africa	ቀርኒ ኣፍሪቃ
+Washington	ዋሺንግቶን
+democratic	ንዴሞክራሲያዊ
+minister	ምንስተር
+Europe	ኣውሮጳ
+Tanzania	ታንዛንያ
+Zanzibar	ዛንዚባር
+Rwanda	ርዋንዳን
+camps	ካምፕታት
+United	ዩነይትድ
+David	ዳውድ
+transformation	ትራንስፎርሜሽንን
+moslems	ሙስሊማት
+Afghanistan	ኣፍጋኒስታን
+committee	ኮሚቴ
+arbitrary detention	ዘይሕጋዊ ማእሰርቲ
+sex crimes	ጾታውን በደላት
+half	ፍርቂ
+one	ሓንቲ
+Eritrean	ኤርትራዊት
+Eritrean woman	ኤርትራዊት
+fear	ስምባደ
+hafl	ፍርቂ
+New York	ኒው ዮርክ
+foreign minister	ምንስተር ወጻኢ
+H	ኤች
+I	ኣይ
+V	ቪ
+HIV	ኤች ኣይ ቪ
+Meles Zenawi	መለስ ዚናዊ
+Columbia University	ዩኒቨርስቲ ኮሎምብያ
+Ethiopia	ኢትዮጵይያ
+Djibouti	ጂቡቲን‘ውን
+Guin	ጊነስ ወርልድ ሪኮርድስ
+Guiness World Records	ጊነስ ወርልድ ሪኮርድስ
+record	ሪኮርድ
+athletic	ኣትሌትክስ
+Lisbon	ሊዝበን
+Book	ቡክ
+book	ቡክ
+Asm	አስመራ
+Asmara	አስመራ
+two	ክልት
+minister	ምንስቲር
+foreign minister	ምንስቲር ወፃኢ
+democracy	ዲሞክራሲ
+millions	ሚልዮናት
+union	ሕብረት
+European Union	ሕብረት ኤውሮጳን
+Eritrea	ኤርትርያ`
+Sacramento	ሳክራመንቶ
+California	ካሊፎርንያ
+Aksum	ኣኽሱም
+Zenawi	ዜናዊ
+gravity	ግራቪቲ
+American	ኣሜሪካዊን
+Russian	ሩስያዊያንን
+three	ሰሉስ
+foreign ministry	ሚኒስትሪ ወጻኢ
+minister	ምንስትሪ
+Gash Barka	ጋሽ ባርካ
+Forto Sawa	ፈርቶ ሳዋ
+project	ፕሮጀክትታት
+projects	ፕሮጀክትታት
+Sub-Saharan Africa	ትሕቲ ሳሃራ ኣፍሪቃ
+Abraham	ኣብርሃም
+Getachew	ጌታቸው
+professor	ፕሮፌሰር
+Petros	ጴጥሮስ
+additional aid	ተወሳኺ ሓገዝ
+Ugandan	ኡጋንዳዊያን
+Birundi	ብሩንዲ
+Kenyan	ኬንያዊያን
+artist	ጥበባዊ
+Abraham	ኣብራሃም
+Stockholm	ስቶክሆልም
+Sweden	ስዊደን
+Isaias	ኢሳያስ
+also	ካልኣይ ድማ
+electric	ኤሌክትሪክ
+director	ዳይረክተር
+Tom	ቶም
+Hart	ሃርት
+Trump	Trump
+shooting	ብረታዊ
+Khartoum	ካርቱም
+global	ግሎባዊት
+citizen	ህዝቢ
+Europe	ኣውሮፓ
+million	ሚሊዮን
+European Union	ሕብረት ኣውሮፓ
+George	ጊዮርጊስ
+saint	ቅዱስ
+Saint George	ቅዱስ ጊዮርጊስ
+Adama	አዳማ
+city	ከተማ
+Adama City	አዳማ ከተማ
+Sidama Coffee	ሲዳማ ቡና
+Sidama	ሲዳማ
+Hawassa	ሐዋሳ
+Awasa	ሐዋሳ
+Awasa	ኣዋሳ
+Muhammad	ሙሓመድ
+Adam	አደም
+Idris Muhammad Adam	ንእድሪስ ሙሓመድ አደም
+films	ፊልምታት
+Asmara	አስመራ
+bus	አውቶቡስ
+in	አብ
+city bus	አውቶቡስ ናይ ከተማ
+USS	ዩ . ኤስ . ኤስ .
+US	ዩ . ኤስ
+U.S.	ዩ . ኤስ
+flag	ብባንዲራ
+Libya	ሊቢያ
+casket	ሳንዱቕ
+metro	ሜትሮ
+E.C.	ዓ/ም
+state	ክልል
+province	ክልል
+investment	ኢንቨስትመንት
+Gambela	በጋምቤላ
+Gambela state	በጋምቤላ ክልል
+Air Force	ኣየር ሓይሊ
